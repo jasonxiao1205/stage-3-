@@ -1,0 +1,732 @@
+﻿timestamp,company,level,title,totalyearlycompensation,location,yearsofexperience,yearsatcompany,tag,basesalary,stockgrantvalue,bonus,gender,otherdetails,cityid,dmaid,rowNumber,Masters_Degree,Bachelors_Degree,Doctorate_Degree,Highschool,Some_College,Race_Asian,Race_White,Race_Two_Or_More,Race_Black,Race_Hispanic,Race,Education
+2018,Apple,New Grad (ICT2),Software Engineer,190000,"Sunnyvale, CA",0,0,NA,120000,50000,20000,NA,"RSUs stack, leading to 200/220k per yr for year 3/4 respectively.",7472,807,354,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,162000,"Sunnyvale, CA",0,0,NA,117000,100000,15000,Male,NA,7472,807,729,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT2,Software Engineer,151000,"Cupertino, CA",0,0,NA,125000,26250,0,Female,Bonuses are performance based,7158,807,755,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT2,Software Engineer,152500,"Cupertino, CA",0,0,iOS,115000,17500,20000,NA,NA,7158,807,892,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT2,Software Engineer,185000,"San Francisco, CA",0,0,iOS,115000,50000,20000,Male,NA,7419,807,917,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,IC2,Software Engineer,205000,"Cupertino, CA",0,0,API Development (Back-End),125000,70000,10000,Male,NA,7158,807,1125,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,190000,"Cupertino, CA",0,0,Distributed Systems (Back-End),130000,25000,25000,NA,NA,7158,807,1329,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT2,Software Engineer,205000,"Cupertino, CA",0,1,Power,115000,70000,20000,NA,NA,7158,807,1730,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Data Scientist,215000,"Cupertino, CA",0,0,ML / AI,125000,38000,52000,NA,NA,7158,807,1899,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT2,Software Engineer,152000,"Sunnyvale, CA",0,0,Full Stack,110000,12000,30000,NA,NA,7472,807,2231,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,153000,"Cupertino, CA",0,0,Distributed Systems (Back-End),115000,18000,15000,NA,NA,7158,807,2361,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,186000,"Seattle, WA",0,0,ML / AI,145000,21000,20000,Male,NA,11527,819,3734,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,173000,"Cupertino, CA",0,0,API Development (Back-End),135000,25000,13000,Female,NA,7158,807,4178,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,165000,"Cupertino, CA",0,0,ML / AI,130000,25000,10000,Male,NA,7158,807,4185,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT2,Software Engineer,137000,"Cupertino, CA",0,1.5,Testing (SDET),110000,12000,15000,Male,NA,7158,807,4191,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT2,Software Engineer,178000,"Cupertino, CA",0,0,iOS,125000,23000,30000,Male,NA,7158,807,4780,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,205000,"Cupertino, CA",0,0,ML / AI,125000,30000,50000,Male,NA,7158,807,5654,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,206000,"Cupertino, CA",0,0,ML / AI,160000,26000,20000,Male,NA,7158,807,6059,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,130000,"Cupertino, CA",0,0,iOS,110000,12000,10000,NA,NA,7158,807,6781,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,178000,"Cupertino, CA",0,1,CoreOS,130000,28000,0,Male,NA,7158,807,7571,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,185000,"Cupertino, CA",0,0,Full Stack,135000,25000,25000,Male,NA,7158,807,7586,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,187000,"Sunnyvale, CA",0,0,API Development (Back-End),140000,26000,21000,Male,NA,7472,807,7757,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,187000,"Sunnyvale, CA",0,0,API Development (Back-End),140000,26000,21000,Male,NA,7472,807,7758,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,137000,"Sunnyvale, CA",0,0,Networking,110000,12000,15000,Male,NA,7472,807,8264,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,182000,"Cupertino, CA",0,1,iOS,117000,65000,0,Male,NA,7158,807,9656,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,218000,"Cupertino, CA",0,0,ML / AI,155000,44000,19000,NA,NA,7158,807,10656,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,201000,"Cupertino, CA",0,0,Hardware,140000,26000,40000,NA,NA,7158,807,10661,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,121000,"Cupertino, CA",0,6,iOS,108000,50000,0,Male,NA,7158,807,11100,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,231000,"Cupertino, CA",0,0,Distributed Systems (Back-End),130000,41000,60000,Male,NA,7158,807,11896,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Hardware Engineer,150000,"Cupertino, CA",0,0,CPU,115000,15000,20000,NA,NA,7158,807,12653,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,175000,"Cupertino, CA",0,0,hardware,150000,25000,0,Male,NA,7158,807,12813,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,220000,"Cupertino, CA",0,0,ML / AI,135000,37000,50000,NA,NA,7158,807,14111,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,166000,"Cupertino, CA",0,0,ML / AI,135000,23000,8000,Male,Siri,7158,807,14197,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,165000,"San Francisco, CA",0,1.5,Distributed Systems (Back-End),125000,20000,20000,Male,NA,7419,807,14954,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,150000,"Cupertino, CA",0,0,Testing (SDET),125000,13000,12000,Male,NA,7158,807,15292,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,193000,"Cupertino, CA",0,0.5,DevOps,148000,34000,11000,Male,NA,7158,807,15453,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Product Manager,128000,"Sunnyvale, CA",0,0,Internal Tools,115000,13000,0,NA,NA,7472,807,16028,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Product Manager,128000,"Sunnyvale, CA",0,0,Internal Tools,115000,13000,0,NA,NA,7472,807,16029,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,205000,"Cupertino, CA",0,0,ML / AI,140000,25000,40000,NA,NA,7158,807,16095,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,L2,Hardware Engineer,135000,"Cupertino, CA",0,0,Testing (SDET),110000,10000,15000,NA,NA,7158,807,16133,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,191000,"Cupertino, CA",0,0,ML / AI,148000,23000,20000,Male,"Hourly wage converted to salary assuming 45 hours/week, 50 weeks/year",7158,807,16250,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,147000,"Cupertino, CA",0,0,Full Stack,115000,12000,20000,Male,NA,7158,807,16286,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Hardware Engineer,173000,"Cupertino, CA",0,0,Silicon Engineering,125000,38000,10000,Male,NA,7158,807,16665,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Hardware Engineer,140000,"Cupertino, CA",0,0,Testing (SDET),110000,10000,20000,Male,NA,7158,807,16691,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,180000,"Cupertino, CA",0,0,Testing (SDET),125000,35000,20000,Male,Masters,7158,807,16962,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,ICT2,Software Engineer,190000,"Cupertino, CA",0,0,Full Stack,130000,30000,30000,Male,NA,7158,807,16977,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,188000,"Cupertino, CA",0,0,Verification,145000,23000,20000,Male,PhD,7158,807,16988,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2019,Apple,ICT2,Software Engineer,186000,"Cupertino, CA",0,0,API Development (Back-End),130000,26000,30000,Male,Masters,7158,807,17612,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,ICT2,Software Engineer,186000,"Cupertino, CA",0,0,Distributed Systems (Back-End),130000,43000,13000,Female,Masters,7158,807,17680,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,ICT2,Hardware Engineer,153000,"Cupertino, CA",0,0,Hardware development engineer,115000,13000,25000,Female,Bachelor's,7158,807,17696,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+2019,Apple,ICT2,Software Engineer,160000,"Cupertino, CA",0,0,iOS,125000,15000,20000,Female,NA,7158,807,17868,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,228000,"Cupertino, CA",0,0,Hardware,135000,23000,70000,Male,Masters,7158,807,17934,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,N/A,Software Engineer,143000,"Sunnyvale, CA",0,0,API Development (Back-End),115000,13000,15000,Female,NA,7472,807,18041,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,158000,"Cupertino, CA",0,0,API Development (Back-End),125000,23000,10000,Female,NA,7158,807,18055,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,158000,"Cupertino, CA",0,0,API Development (Back-End),125000,23000,10000,Female,NA,7158,807,18056,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,157000,"Cupertino, CA",0,0,Full Stack,125000,20000,12000,Male,NA,7158,807,18110,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,210000,"Cupertino, CA",0,0,ML / AI,135000,35000,40000,NA,Masters,7158,807,18120,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,ICT2,Software Engineer,160000,"Cupertino, CA",0,0,ML / AI,125000,23000,12000,Female,Masters,7158,807,18471,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,ICT3,Software Engineer,257000,"Cupertino, CA",0,0,ML / AI,170000,62000,25000,Male,PhD,7158,807,19095,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2019,Apple,IC2,Software Engineer,160000,"Sunnyvale, CA",0,0,Distributed Systems (Back-End),120000,20000,20000,Male,Masters,7472,807,19160,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,ICT2,Software Engineer,162000,"Cupertino, CA",0,0,Calibration Engineering,115000,12000,35000,Male,NA,7158,807,19235,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT2,Software Engineer,158000,"San Diego, CA",0,0,DevOps,120000,13000,25000,Male,Accepted offer for Build Engineer in Apple's new San Diego location.,7416,825,19721,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT2,Software Engineer,200000,"Cupertino, CA",0,0,ML / AI,130000,30000,40000,Male,"Paid hourly, I will probably work overtime so my salary will go up from 130k. - Masters",7158,807,19857,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT3,Software Engineer,218000,"Cupertino, CA",0,0,ML / AI,150000,38000,30000,Female,PhD,7158,807,20191,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2020,Apple,ICT3,Data Scientist,208000,"Cupertino, CA",0,0,ML / AI,150000,35000,23000,Male,PhD,7158,807,20233,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2020,Apple,ICT3,Software Engineer,217000,"Cupertino, CA",0,0,ML / AI,150000,37000,30000,Male,PhD,7158,807,20735,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2020,Apple,ICT3,Software Engineer,227000,"Cupertino, CA",0,0,ML / AI,155000,37000,35000,Male,PhD,7158,807,21001,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2020,Apple,ICT2,Software Engineer,140000,"Cupertino, CA",0,0,iOS,125000,6000,10000,Male,NA,7158,807,21574,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT2,Software Engineer,172000,"Cupertino, CA",0,0,iOS,126000,21000,20000,Male,NA,7158,807,21836,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT2,Hardware Engineer,136000,"Cupertino, CA",0,0,SEG,115000,11000,10000,Male,NA,7158,807,22527,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT2,Software Engineer,178000,"Cupertino, CA",0,0,Algorithm Prototyping,125000,23000,30000,Male,NA,7158,807,23625,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT2,Software Engineer,109000,"Austin, TX",0,2,ML / AI,100000,6000,3000,Male,NA,10965,635,24143,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT2,Hardware Engineer,188000,"Cupertino, CA",0,0,Design Verification,127000,35000,26000,Male,NA,7158,807,24198,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT3,Software Engineer,214000,"Cupertino, CA",0,0,Distributed Systems (Back-End),160000,38000,16000,Male,Masters,7158,807,25119,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT2,Hardware Engineer,151000,"Cupertino, CA",0,0,Electrical Engineer,130000,13000,8000,NA,Masters,7158,807,25380,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2018,Apple,ICT3,Software Engineer,200000,"Sunnyvale, CA",1,1,NA,140000,37000,20000,NA,NA,7472,807,407,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT2,Software Engineer,134000,"Sunnyvale, CA",1,0,DevOps,120000,12000,2000,NA,NA,7472,807,1335,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT2,Software Engineer,150000,"Cupertino, CA",1,1,Multimedia,125000,20000,5000,NA,NA,7158,807,1707,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,205000,"Cupertino, CA",1,1,ML / AI,130000,60000,15000,NA,NA,7158,807,2198,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,L2,Hardware Engineer,115000,"San Francisco, CA",1,1,Product,100000,10000,5000,NA,NA,7419,807,2487,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,195000,"Cupertino, CA",1,1,ML / AI,125000,60000,10000,NA,NA,7158,807,3048,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,183000,"Cupertino, CA",1,1,Firmware,130000,33000,20000,NA,NA,7158,807,3377,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,152000,"Cupertino, CA",1,0,Full Stack,115000,17000,20000,NA,cross submission from https://docs.google.com/spreadsheets/d/1R2MeW0cQ6l1rR56ygsjB3w0Oe166rXpHN7Iy549Co_s/edit#gid=530809193,7158,807,4806,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,206000,"Cupertino, CA",1,0,DevOps,145000,26000,35000,Male,NA,7158,807,5185,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,3,Data Scientist,230000,"Cupertino, CA",1,4,ML / AI,136000,80000,16000,Female,NA,7158,807,5810,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,185000,"Sunnyvale, CA",1,1,Distributed Systems (Back-End),135000,26000,24000,Male,NA,7472,807,6855,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,247000,"Sunnyvale, CA",1,1,Testing (SDET),120000,120000,7000,Male,NA,7472,807,6907,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,188000,"Cupertino, CA",1,1,Full Stack,120000,18000,40000,Female,NA,7158,807,7056,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ITC3,Software Engineer,148000,"Cupertino, CA",1,1,Distributed Systems (Back-End),123000,25000,0,Male,NA,7158,807,8228,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,164000,"Cupertino, CA",1,1,Full Stack,124000,30000,10000,Male,NA,7158,807,8853,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,150000,"Cupertino, CA",1,3,DevOps,110000,50000,0,Male,NA,7158,807,9729,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Product Designer,240000,"Sunnyvale, CA",1,1,Special Projects (R&D),210000,20000,10000,Male,NA,7472,807,9878,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,152000,"Cupertino, CA",1,1,Distributed Systems (Back-End),115000,22000,15000,Male,New Grad,7158,807,9971,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,170000,"Cupertino, CA",1,1,Testing (SDET),135000,26000,10000,Male,AI/ML org,7158,807,10885,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,187000,"Cupertino, CA",1,1,"Battery (SEG, HW Technology Org)",135000,26000,26000,Male,PhD,7158,807,10896,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2019,Apple,ICT3,Software Engineer,275000,"Seattle, WA",1,0,ML / AI,125000,50000,100000,Female,NA,11527,819,11601,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,188000,"Cupertino, CA",1,1,ML / AI,145000,33000,10000,Male,NA,7158,807,12105,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,162000,"Cupertino, CA",1,1,DevOps,142000,12000,8000,Male,NA,7158,807,12797,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,L3,Software Engineer,170000,"Cupertino, CA",1,0,DevOps,145000,25000,0,NA,NA,7158,807,13024,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,174000,"Cupertino, CA",1,1,Full Stack,134000,12000,28000,Male,NA,7158,807,13176,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,180000,"Cupertino, CA",1,1,Reliability,130000,25000,25000,Male,NA,7158,807,13986,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,250000,"Cupertino, CA",1,0,ML / AI,150000,50000,50000,Male,NA,7158,807,14229,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,212000,"Cupertino, CA",1,1,Full Stack,140000,52000,20000,Female,NA,7158,807,15347,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,170000,"Sunnyvale, CA",1,1,Full Stack,135000,25000,10000,Female,NA,7472,807,15546,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,186000,"Cupertino, CA",1,0,Distributed Systems (Back-End),140000,26000,20000,Male,NA,7158,807,15817,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,127000,"Cupertino, CA",1,1,Full Stack,104000,11000,12000,Male,Internal tools,7158,807,16061,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,182000,"Cupertino, CA",1,1,Testing (SDET),139000,28000,15000,Male,NA,7158,807,17263,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,212000,"Cupertino, CA",1,1,ML / AI,137000,48000,27000,Male,NA,7158,807,17710,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,137000,"Los Angeles, CA",1,1,API Development (Back-End),122000,10000,5000,NA,NA,7275,803,18714,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,273000,"Cupertino, CA",1,1,ML / AI,180000,75000,18000,Male,PhD,7158,807,18970,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2020,Apple,ICT3,Software Engineer,141000,"Cambridge, EN, United Kingdom",1,1,ML / AI,85000,50000,6000,Male,Masters,4878,0,19990,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT3,Software Engineer,233000,"Cupertino, CA",1,1,ML / AI,152000,71000,10000,Female,Masters,7158,807,20901,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT2,Software Engineer,161000,"Cupertino, CA",1,0,Security,139000,22000,0,Female,"Signing bonus: 19,000 - Masters",7158,807,21025,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT2,Software Engineer,147000,"Cupertino, CA",1,1,Embedded systems,124000,17000,6000,Male,Masters,7158,807,21405,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT2,Software Engineer,154000,"Cupertino, CA",1,1,Accessories,125000,17000,12000,Male,Masters,7158,807,21667,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT3,Hardware Engineer,139000,"Austin, TX",1,0,Silicon Validation,120000,19000,0,Other,"$15k signing bonus, $10k relocation package plus moving expenses - Masters",10965,635,22592,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT2,Software Engineer,205000,"Cupertino, CA",1,1,iOS,125000,50000,30000,Female,Masters,7158,807,22926,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT3,Software Engineer,164000,"Cupertino, CA",1,0,API Development (Back-End),125000,26000,13000,NA,NA,7158,807,25425,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT2,Software Engineer,185000,"Cupertino, CA",2,1.5,NA,120000,40000,25000,NA,NA,7158,807,419,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT 2,Software Engineer,200000,"Cupertino, CA",2,0,NA,125000,50000,25000,Male,"New grad, intern once at company",7158,807,560,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,170000,"San Francisco, CA",2,2,Distributed Systems (Back-End),130000,30000,10000,NA,NA,7419,807,2000,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT2,Software Engineer,130000,"Sunnyvale, CA",2,2,ML / AI,121000,20000,8000,NA,NA,7472,807,2013,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,216000,"Cupertino, CA",2,2,Distributed Systems (Back-End),145000,51000,20000,NA,NA,7158,807,2117,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,220000,"Cupertino, CA",2,2,iOS,115000,90000,15000,NA,NA,7158,807,2158,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,191000,"Cupertino, CA",2,2,Testing (SDET),115000,71000,5000,NA,NA,7158,807,2563,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,191000,"Cupertino, CA",2,2,Testing (SDET),115000,71000,5000,NA,NA,7158,807,2564,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,190000,"Cupertino, CA",2,1,System Engineering,135000,40000,15000,NA,NA,7158,807,2727,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,209000,"Cupertino, CA",2,2.5,iOS,130000,70000,9000,NA,NA,7158,807,3483,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,235000,"Cupertino, CA",2,2,API Development (Back-End),136000,85000,14000,NA,NA,7158,807,3507,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT2,Hardware Engineer,175000,"Cupertino, CA",2,0,Camera,115000,50000,10000,Male,NA,7158,807,4084,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,205000,"Cupertino, CA",2,2,iOS,140000,50000,15000,Male,NA,7158,807,4313,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,245000,"Cupertino, CA",2,0,Distributed Systems (Back-End),150000,30000,65000,Other,NA,7158,807,4508,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT2,Software Engineer,173000,"Cupertino, CA",2,0.6,iOS,125000,23000,25000,Male,"Base paid hourly at $60.09/hour, plus overtime at 1.5x",7158,807,4582,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,220000,"Sunnyvale, CA",2,0,ML / AI,160000,50000,10000,Male,NA,7472,807,6172,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,255000,"Sunnyvale, CA",2,2,ML / AI,145000,98000,12000,Male,NA,7472,807,6551,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,199000,"Sunnyvale, CA",2,2,Full Stack,134000,50000,15000,Male,NA,7472,807,7080,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,180000,"Cupertino, CA",2,0,Full Stack,135000,30000,15000,Female,NA,7158,807,7198,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,180000,"Sunnyvale, CA",2,0,Full Stack,140000,28000,14000,Male,NA,7472,807,7466,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,295000,"Cupertino, CA",2,0,ML / AI,150000,125000,20000,Female,NA,7158,807,7806,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,163000,"Cupertino, CA",2,0.5,Distributed Systems (Back-End),125000,26000,12000,Male,"$55,000 signing bonus, hourly employee with overtime",7158,807,8633,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,243000,"Cupertino, CA",2,0,ML / AI,165000,38000,40000,Male,NA,7158,807,9056,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,263000,"Cupertino, CA",2,0,ML / AI,160000,87000,16000,Male,NA,7158,807,11596,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,193000,"Austin, TX",2,0,Distributed Systems (Back-End),130000,50000,13000,Female,NA,10965,635,12199,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,300000,"San Francisco, CA",2,1,ML / AI,180000,100000,20000,Male,NA,7419,807,13509,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,190000,"Sunnyvale, CA",2,0,Distributed Systems (Back-End),145000,25000,25000,Male,NA,7472,807,13601,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,226000,"Sunnyvale, CA",2,0,Web Development (Front-End),155000,26000,45000,Male,NA,7472,807,14294,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,251000,"Cupertino, CA",2,2,Full Stack,142000,85000,25000,Male,NA,7158,807,14678,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,191000,"Cupertino, CA",2,2,Camera,150000,26000,15000,Male,NA,7158,807,15052,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,209000,"Cupertino, CA",2,0,ML / AI,155000,38000,16000,Male,50k sign-on,7158,807,15388,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,234000,"Cupertino, CA",2,2,Core OS,135000,83000,16000,Male,NA,7158,807,15515,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,187000,"Cupertino, CA",2,1,Testing (SDET),144000,31000,12000,Male,John Giandreas org,7158,807,15656,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,245000,"Cupertino, CA",2,2,iOS,150000,67000,28000,Male,NA,7158,807,15725,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,183000,"Cupertino, CA",2,2,iOS,140000,26000,17000,Male,NA,7158,807,15816,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,262000,"Cupertino, CA",2,0,Distributed Systems (Back-End),170000,75000,17000,Male,Sign-on bonus 95k,7158,807,16030,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,161000,"Cupertino, CA",2,0,Distributed Systems (Back-End),125000,26000,10000,Male,55k signing,7158,807,16213,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,258000,"San Francisco, CA",2,2,Full Stack,142000,91000,25000,Male,NA,7419,807,16280,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,387000,"Cupertino, CA",2,2,ML / AI,190000,170000,27000,NA,NA,7158,807,16738,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,212000,"Cupertino, CA",2,0,ML / AI,160000,37000,10000,Male,Masters,7158,807,16924,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,ICT3,Hardware Engineer,206000,"Cupertino, CA",2,0,display,150000,26000,30000,Male,PhD,7158,807,17371,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2019,Apple,ICT3,Hardware Engineer,178000,"Cupertino, CA",2,2,Human Factors,132000,35000,11000,Male,NA,7158,807,17423,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,270000,"San Francisco, CA",2,2,Full Stack,142000,103000,25000,Male,NA,7419,807,17750,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,213000,"Santa Clara, CA",2,2,Hardware,150000,43000,20000,NA,PhD,7434,807,19247,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2020,Apple,ICT3,Software Engineer,297000,"Cupertino, CA",2,0,ML / AI,160000,113000,24000,Male,NA,7158,807,21889,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT2,Software Engineer,162000,"Cupertino, CA",2,0.33,Hardware Technologies,120000,22000,20000,Male,"Hardware Technology Group, Signing of 20k",7158,807,22252,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT3,Software Engineer,194000,"Cupertino, CA",2,2,Compilers,134000,50000,10000,Male,"Relocation bonus: 20k, signing bonus was also 20k (2 years ago) - Masters and PhD",7158,807,22845,1,0,1,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT3,Hardware Engineer,200000,"Cupertino, CA",2,2,design engineer,142000,40000,15000,Female,Masters,7158,807,23602,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT2,Software Engineer,150000,"Cupertino, CA",2,1,Factory Firmware,132000,13000,5000,Male,Masters,7158,807,23745,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT3,Software Engineer,175000,"Cupertino, CA",2,0,Testing (SDET),135000,26000,13000,Female,Sign on 10k - Masters,7158,807,23814,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT3,Software Engineer,195000,"Cupertino, CA",2,0,Mobile (iOS + Android),150000,25000,20000,NA,NA,7158,807,24023,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT3,Hardware Engineer,201000,"Cupertino, CA",2,0,Sensing HW,145000,26000,30000,Male,Masters,7158,807,24258,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT2,Software Engineer,160000,"Cupertino, CA",2,2,Embbeded,142000,13000,5000,Male,Masters,7158,807,24397,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT3,Software Engineer,175000,"Cupertino, CA",2,0,Testing (SDET),130000,25000,20000,Female,Masters,7158,807,24471,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2017,Apple,Ict3,Software Engineer,200000,"Cupertino, CA",3,2,NA,140000,40000,20000,NA,NA,7158,807,45,0,0,0,0,0,0,0,0,0,0,NA,NA
+2017,Apple,ICT3,Software Engineer,210000,"Cupertino, CA",3,2,NA,130000,50000,30000,NA,NA,7158,807,98,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT 3,Software Engineer,176000,"Cupertino, CA",3,1,NA,126000,25000,20000,Female,NA,7158,807,501,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,255000,"Cupertino, CA",3,3,Distributed Systems (Back-End),130000,100000,25000,Female,NA,7158,807,986,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,291000,"San Francisco, CA",3,3,iOS,155000,120000,22000,NA,NA,7419,807,2436,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,251000,"Cupertino, CA",3,3,iOS,160000,75000,16000,NA,NA,7158,807,2742,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,190000,"Cupertino, CA",3,2,iOS,140000,40000,10000,NA,NA,7158,807,3562,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,195000,"San Francisco, CA",3,3,Networking,120000,75000,10000,Male,NA,7419,807,4999,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,325000,"Seattle, WA",3,3,ML / AI,171000,130000,30000,Male,NA,11527,819,5739,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,215000,"Cupertino, CA",3,3,iOS,140000,55000,20000,Male,NA,7158,807,5781,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,220000,"Cupertino, CA",3,3,Testing (SDET),130000,80000,10000,Male,NA,7158,807,6147,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,181000,"Cupertino, CA",3,2,iOS,133000,35000,13000,Female,NA,7158,807,6522,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,180000,"Sunnyvale, CA",3,2,Distributed Systems (Back-End),135000,35000,10000,Male,NA,7472,807,6730,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,240000,"Cupertino, CA",3,3,ML / AI,150000,75000,15000,Female,PhD + 3 years,7158,807,8142,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2019,Apple,ICT4,Software Engineer,286000,"San Francisco, CA",3,1,ML / AI,180000,88000,10000,Male,NA,7419,807,8207,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,190000,"Sunnyvale, CA",3,0,Distributed Systems (Back-End),145000,30000,15000,Male,NA,7472,807,8441,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,244000,"Sunnyvale, CA",3,0,Systems,170000,38000,36000,Male,NA,7472,807,9386,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,255000,"Cupertino, CA",3,3,iPhone,155000,80000,20000,Male,NA,7158,807,9580,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,394000,"Cupertino, CA",3,0,ML / AI,195000,170000,29000,NA,NA,7158,807,10684,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,206000,"Cupertino, CA",3,3,ML / AI,138000,56000,12000,Male,NA,7158,807,10759,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,175000,"Santa Clara, CA",3,0,Hardware,135000,26000,14000,Male,NA,7434,807,10942,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,190000,"Cupertino, CA",3,1,iOS,145000,30000,15000,Male,NA,7158,807,11312,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,175000,"Cupertino, CA",3,0,DV,135000,26000,14000,Male,NA,7158,807,11486,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,265000,"Cupertino, CA",3,0,Full Stack,180000,67000,18000,Male,NA,7158,807,11685,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,225000,"Cupertino, CA",3,0,Distributed Systems (Back-End),155000,30000,40000,Male,NA,7158,807,12030,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,263000,"Cupertino, CA",3,3,ML / AI,160000,78000,25000,Male,NA,7158,807,12506,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,251000,"Cupertino, CA",3,3,Full Stack,134000,85000,32000,Male,NA,7158,807,15024,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,359000,"Cupertino, CA",3,0,Distributed Systems (Back-End),190000,125000,44000,Male,NA,7158,807,15926,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,410000,"Cupertino, CA",3,3,Distributed Systems (Back-End),190000,190000,30000,Male,NA,7158,807,15980,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,367000,"Sunnyvale, CA",3,3,iOS,160000,175000,32000,Male,Promotion from ICT3,7472,807,16058,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,225000,"Cupertino, CA",3,3,iOS,142000,63000,20000,Male,NA,7158,807,16169,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,240000,"Cupertino, CA",3,3,hardware,160000,60000,20000,NA,NA,7158,807,16504,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,302000,"Cupertino, CA",3,3,Camera,157000,120000,25000,Male,NA,7158,807,16579,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Product Manager,280000,"Cupertino, CA",3,2,ML / AI,170000,90000,20000,Male,NA,7158,807,16721,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,280000,"Cupertino, CA",3,3,Hardware,150000,100000,30000,NA,PhD,7158,807,16959,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2019,Apple,ICT3,Hardware Engineer,240000,"Cupertino, CA",3,3,Camera,142000,90000,10000,Male,NA,7158,807,17004,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,251000,"Cupertino, CA",3,3,Full Stack,136000,100000,15000,Male,Masters,7158,807,17021,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,ICT3,Software Engineer,208000,"Cupertino, CA",3,0,Systems Software,155000,38000,15000,Male,Masters,7158,807,18084,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,ICT4,Software Engineer,210000,"Sacramento, CA",3,9,Networking,120000,75000,15000,Male,NA,7408,862,19286,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT4,Software Engineer,245000,"Cupertino, CA",3,3,Web Development (Front-End),160000,70000,15000,Male,NA,7158,807,19820,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT3,Software Engineer,260000,"Cupertino, CA",3,0,ML / AI,165000,75000,20000,Female,NA,7158,807,20468,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT4,Hardware Engineer,280000,"Cupertino, CA",3,3,Reliability,152000,120000,8000,Male,PhD,7158,807,20631,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2020,Apple,ICT4,Software Engineer,260000,"Cupertino, CA",3,3,ML / AI,150000,90000,20000,Male,NA,7158,807,20966,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT3,Software Engineer,300000,"Cupertino, CA",3,1,Operating Systems,140000,105000,55000,Male,NA,7158,807,21750,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT4,Hardware Engineer,242000,"Cupertino, CA",3,3,Camera,152000,70000,15000,Male,Masters,7158,807,22135,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT3,Software Engineer,169000,"Cupertino, CA",3,0,Testing (SDET),130000,26000,13000,Female,Masters,7158,807,22268,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT3,Hardware Engineer,247000,"Sunnyvale, CA",3,3,Health,137000,85000,25000,Male,NA,7472,807,23612,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,T3,Software Engineer,230000,"Sunnyvale, CA",4,0,ML / AI,165000,50000,0,Male,NA,7472,807,1280,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,215000,"Sunnyvale, CA",4,0,Distributed Systems (Back-End),145000,26000,45000,NA,NA,7472,807,2633,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,M1,Software Engineering Manager,325000,"Cupertino, CA",4,4,Firmware,177000,122000,26000,NA,NA,7158,807,2916,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,200000,"Sunnyvale, CA",4,4,Testing (SDET),138000,50000,12000,NA,NA,7472,807,2990,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,290000,"Cupertino, CA",4,2,ML / AI,170000,105000,15000,NA,NA,7158,807,3045,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,290000,"Cupertino, CA",4,2,ML / AI,170000,105000,15000,NA,NA,7158,807,3046,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,310000,"Cupertino, CA",4,4,Distributed Systems (Back-End),165000,130000,20000,NA,NA,7158,807,3245,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Hardware Engineer,208000,"Cupertino, CA",4,2,Embedded Systems,138000,60000,10000,NA,NA,7158,807,3269,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,450000,"Cupertino, CA",4,4,API Development (Back-End),170000,240000,40000,NA,NA,7158,807,3337,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,345000,"Cupertino, CA",4,0,DevOps,192000,130000,23000,NA,NA,7158,807,3363,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,260000,"San Francisco, CA",4,1,Distributed Systems (Back-End),155000,85000,20000,NA,NA,7419,807,3529,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,460000,"Cupertino, CA",4,4,iOS,160000,250000,50000,Male,NA,7158,807,4168,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,256000,"Cupertino, CA",4,1,Web Development (Front-End),141000,105000,10000,Female,NA,7158,807,4265,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,192000,"Cupertino, CA",4,3,Networking,125000,60000,7000,Female,NA,7158,807,4351,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,258000,"Cupertino, CA",4,2,ML / AI,158000,100000,8000,Female,NA,7158,807,4572,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,212000,"Cupertino, CA",4,4,ML / AI,140000,60000,12000,Male,NA,7158,807,4870,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,213000,"Cupertino, CA",4,0,API Development (Back-End),140000,38000,35000,Female,NA,7158,807,5361,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,224000,"Cupertino, CA",4,0,Distributed Systems (Back-End),165000,43000,16000,Female,NA,7158,807,6288,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,M,Software Engineering Manager,500000,"Cupertino, CA",4,4,ML / AI,210000,250000,40000,Male,NA,7158,807,6757,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,240000,"Cupertino, CA",4,1,ML / AI,165000,45000,30000,NA,NA,7158,807,7074,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,307000,"Cupertino, CA",4,4,API Development (Back-End),174000,103000,30000,Male,NA,7158,807,7165,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,205000,"Sunnyvale, CA",4,2,Distributed Systems (Back-End),140000,50000,14000,Male,NA,7472,807,7376,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,180000,"Cupertino, CA",4,2,iOS,135000,35000,10000,Male,NA,7158,807,7527,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Data Scientist,150000,"Cupertino, CA",4,4,ML / AI,120000,30000,6000,Female,NA,7158,807,7828,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,253000,"Cupertino, CA",4,0,DevOps,170000,38000,45000,Male,NA,7158,807,9273,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ict3,Software Engineer,300000,"Cupertino, CA",4,4,API Development (Back-End),185000,40000,75000,Female,NA,7158,807,9322,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,360000,"Cupertino, CA",4,3,iOS,213000,120000,30000,Male,NA,7158,807,9803,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Data Scientist,212000,"Cupertino, CA",4,4,Hardware Technology,136000,60000,16000,Female,NA,7158,807,10452,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,181000,"Cupertino, CA",4,4,Web Development (Front-End),109000,60000,12000,Male,NA,7158,807,10581,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,210000,"Cupertino, CA",4,2,ASIC,135000,70000,5000,NA,NA,7158,807,11092,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,320000,"Seattle, WA",4,4,iOS,175000,120000,25000,Male,NA,11527,819,11256,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,142000,"Sunnyvale, CA",4,0,Full Stack,115000,12000,15000,Female,NA,7472,807,11991,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,299000,"Cupertino, CA",4,4,ASIC,165000,110000,24000,Male,NA,7158,807,12157,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,347000,"Cupertino, CA",4,4,Hardware/Display,167000,150000,30000,Male,NA,7158,807,12173,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,167000,"Austin, TX",4,0,Design Verification,130000,24000,13000,NA,NA,10965,635,12403,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,149000,"New York, NY",4,0,Full Stack,120000,26000,3000,Male,NA,10182,501,13029,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,170000,"Cupertino, CA",4,4,Hardware,129000,28000,13000,NA,NA,7158,807,13707,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,230000,"Seattle, WA",4,4,ML / AI,154000,61000,15000,Male,NA,11527,819,14044,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Data Scientist,258000,"Cupertino, CA",4,4,Sensing,158000,80000,20000,Female,Promotion Package,7158,807,14421,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,201000,"Sacramento, CA",4,5,Networking,110000,80000,11000,Male,NA,7408,862,14467,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Hardware Engineer,384000,"Cupertino, CA",4,4,Hardware engineering,200000,149000,35000,NA,NA,7158,807,14575,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,206000,"Sunnyvale, CA",4,1,iOS,140000,26000,40000,Male,NA,7472,807,14706,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,285000,"Cupertino, CA",4,3,Hardware development,160000,100000,25000,Male,NA,7158,807,15256,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,168000,"Austin, TX",4,0,Hardware,130000,23000,15000,Male,NA,10965,635,15365,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,274000,"Cupertino, CA",4,4,Distributed Systems (Back-End),160000,88000,26000,NA,"Base: 160K, target bonus: 8%",7158,807,15466,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,274000,"Cupertino, CA",4,4,Distributed Systems (Back-End),160000,88000,26000,Male,"Base: 160K, target bonus: 8%, sign on: 50K, Stocks: 200K(4 yrs), Avg Stock Refreshers: 150K (4 yrs)",7158,807,15468,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,188000,"Cupertino, CA",4,2,iOS,135000,33000,20000,Male,NA,7158,807,15601,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,234000,"Cupertino, CA",4,4,API Development (Back-End),140000,80000,14000,Other,NA,7158,807,15761,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,234000,"Cupertino, CA",4,4,API Development (Back-End),140000,80000,14000,Other,NA,7158,807,15762,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,237000,"Cupertino, CA",4,2,iOS,132000,85000,20000,Male,NA,7158,807,15780,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Data Scientist,290000,"Cupertino, CA",4,2,ML / AI,180000,90000,20000,Male,NA,7158,807,15791,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,270000,"Cupertino, CA",4,4,Control Systems,143000,104000,23000,Male,NA,7158,807,15954,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,295000,"Sunnyvale, CA",4,0,ML / AI,200000,75000,20000,Male,NA,7472,807,16370,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,254000,"Cupertino, CA",4,4,iOS,142000,100000,12000,Male,NA,7158,807,16419,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,430000,"Cupertino, CA",4,4,ML / AI,171000,229000,30000,Male,Masters,7158,807,16879,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,ICT4,Hardware Engineer,275000,"Cupertino, CA",4,3,Hardware Development,160000,90000,25000,Male,PhD,7158,807,18030,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2019,Apple,ICT3,Hardware Engineer,190000,"Cupertino, CA",4,4,SoC,140000,40000,10000,NA,NA,7158,807,18293,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Product Manager,224000,"Cupertino, CA",4,12,iOS,138000,80000,6000,Male,NA,7158,807,18322,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,L3,Hardware Engineer,160000,"Cupertino, CA",4,1,iOS,120000,20000,20000,Male,PhD,7158,807,18380,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2020,Apple,ICT3,Software Engineer,219000,"Cupertino, CA",4,3.5,iOS,137000,65000,17000,Male,NA,7158,807,19808,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT4,Software Engineer,250000,"Cupertino, CA",4,1,Distributed Systems (Back-End),185000,55000,10000,Female,signing bonus 75000 - Masters,7158,807,19904,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT4,Software Engineer,179000,"Seattle, WA",4,0,ML / AI,135000,44000,0,Male,$10k signing bonus,11527,819,20265,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT3,Software Engineer,220000,"Cupertino, CA",4,1,iOS,130000,70000,20000,NA,NA,7158,807,20621,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT3,Product Manager,285000,"Cupertino, CA",4,0,Analytics and Big data,150000,105000,30000,Female,Masters,7158,807,21490,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,L3,Software Engineer,197000,"Cupertino, CA",4,2,Site Reliability (SRE),138000,50000,10000,Male,Masters,7158,807,23007,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT3,Software Engineer,185000,"Austin, TX",4,5,Hardware design,130000,45000,10000,NA,NA,10965,635,23294,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT4,Software Engineer,420000,"Cupertino, CA",4,4,ML / AI,205000,185000,30000,Male,Masters,7158,807,23601,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT4,Hardware Engineer,297000,"Cupertino, CA",4,0,Rf,175000,105000,17000,Male,PhD,7158,807,24045,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2020,Apple,ICT3,Hardware Engineer,210000,"Cupertino, CA",4,0,IC Design,160000,30000,20000,NA,Masters,7158,807,24889,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT4,Software Engineer,277000,"Seattle, WA",4,4,ML / AI,162000,100000,15000,Male,NA,11527,819,25076,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT3,Software Engineer,220000,"Cupertino, CA",4,0.5,iOS,150000,50000,20000,Female,NA,7158,807,25390,0,0,0,0,0,0,0,0,0,0,NA,NA
+2017,Apple,ICT2,Software Engineer,120000,"Cupertino, CA",5,2,NA,95000,80000,8000,NA,Tons of overtime,7158,807,52,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,Ict4,Software Engineer,420000,"Sunnyvale, CA",5,1,NA,220000,160000,30000,Male,220k base / 400k rsu/ 85k signon,7472,807,1177,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,191000,"Sunnyvale, CA",5,2,Testing (SDET),128000,50000,13000,NA,NA,7472,807,2127,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,156000,"Cupertino, CA",5,9,iOS,120000,20000,16000,NA,NA,7158,807,2144,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,210000,"Sunnyvale, CA",5,3.5,ML / AI,148000,60000,8000,NA,NA,7472,807,2423,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,L4,Software Engineer,240000,"Cupertino, CA",5,0,iOS,160000,40000,40000,NA,NA,7158,807,2673,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,220000,"Sunnyvale, CA",5,1,Web Development (Front-End),155000,40000,25000,NA,NA,7472,807,2693,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,250000,"Cupertino, CA",5,1,AI,165000,60000,25000,Male,NA,7158,807,4156,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,E4,Software Engineer,300000,"Cupertino, CA",5,2.5,Distributed Systems (Back-End),150000,135000,15000,Male,NA,7158,807,4401,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,L5,Product Designer,328000,"Cupertino, CA",5,3,Design,178000,130000,20000,Male,NA,7158,807,4598,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,200000,"London, EN, United Kingdom",5,0,Distributed Systems (Back-End),140000,45000,15000,Male,NA,12008,0,4967,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,135000,"Cupertino, CA",5,2,Distributed Systems (Back-End),115000,15000,5000,Male,NA,7158,807,5397,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,3,Software Engineer,146000,"Cupertino, CA",5,4,Web Development (Front-End),104000,30000,12000,Male,NA,7158,807,5602,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,IC3,Product Manager,180000,"Cupertino, CA",5,5,Mobile (iOS + Android),130000,40000,10000,Female,NA,7158,807,6845,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,175000,"Cupertino, CA",5,2,iOS,140000,30000,5000,Male,NA,7158,807,7246,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,305000,"Sunnyvale, CA",5,4.5,Full Stack,160000,135000,11000,Male,NA,7472,807,7421,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,270000,"Cupertino, CA",5,5,Distributed Systems (Back-End),170000,100000,10000,Male,NA,7158,807,7516,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Data Scientist,350000,"Sunnyvale, CA",5,1,ML / AI,175000,160000,15000,Male,NA,7472,807,7783,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,300000,"Cupertino, CA",5,0,Full Stack,190000,90000,19000,Male,NA,7158,807,7808,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,317000,"Cupertino, CA",5,5,NA,167000,140000,10000,Male,NA,7158,807,7999,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,226000,"Cupertino, CA",5,0,Web Development (Front-End),150000,26000,50000,Male,NA,7158,807,8719,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,255000,"Cupertino, CA",5,0,ML / AI,180000,60000,15000,NA,NA,7158,807,8909,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,323000,"Cupertino, CA",5,5,ML / AI,168000,130000,25000,NA,NA,7158,807,9292,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,228000,"Cupertino, CA",5,1,Hardware,140000,70000,18000,Male,NA,7158,807,9348,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,235000,"Cupertino, CA",5,1,driver,175000,40000,20000,Male,NA,7158,807,9349,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,370000,"Cupertino, CA",5,1,ML / AI,200000,150000,20000,Female,NA,7158,807,9498,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,420000,"San Francisco, CA",5,0,ML / AI,200000,200000,20000,Male,Hire on bonus: 75k,7419,807,9550,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,411000,"San Francisco, CA",5,1,Distributed Systems (Back-End),206000,180000,25000,NA,NA,7419,807,9593,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,225000,"Cupertino, CA",5,2,Wireless,150000,60000,15000,Male,NA,7158,807,9638,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,185000,"Cupertino, CA",5,1,Iphone,140000,25000,20000,Male,NA,7158,807,9741,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Hardware Engineer,450000,"Cupertino, CA",5,4,Embedded,210000,200000,40000,Male,NA,7158,807,9865,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,180000,"Cupertino, CA",5,2,Testing (SDET),145000,25000,10000,Male,NA,7158,807,10525,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Data Scientist,214000,"Cupertino, CA",5,0,ML / AI,170000,27000,17000,Female,NA,7158,807,10608,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,200000,"Sunnyvale, CA",5,0,Full Stack,150000,40000,10000,Male,NA,7472,807,11394,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,274000,"Cupertino, CA",5,5,iOS,164000,90000,20000,NA,NA,7158,807,11777,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,178000,"Sunnyvale, CA",5,12,Web Development (Front-End),120000,50000,8000,Male,NA,7472,807,11818,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,300000,"Cupertino, CA",5,1,ML / AI,165000,100000,30000,Male,NA,7158,807,12350,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,225000,"Cupertino, CA",5,0,SPG,160000,30000,35000,Male,NA,7158,807,12716,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,470000,"Cupertino, CA",5,3,ML / AI,200000,240000,30000,Male,NA,7158,807,12755,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,300000,"Cupertino, CA",5,3,Testing (SDET),170000,100000,30000,NA,NA,7158,807,13213,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,205000,"Cupertino, CA",5,1,meow,142000,45000,18000,Male,NA,7158,807,13417,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,218000,"Cupertino, CA",5,2,SEG,138000,65000,15000,Male,NA,7158,807,13551,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Product Designer,250000,"Cupertino, CA",5,5,Testing (SDET),160000,80000,10000,Male,NA,7158,807,14370,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,224000,"Cupertino, CA",5,2,ML / AI,151000,60000,13000,Male,NA,7158,807,15441,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,420000,"Cupertino, CA",5,2,ML / AI,200000,200000,20000,NA,NA,7158,807,15516,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,170000,"Cupertino, CA",5,5,DevOps,140000,30000,0,NA,NA,7158,807,15535,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,344000,"Cupertino, CA",5,1,Distributed Systems (Back-End),200000,87000,57000,Female,NA,7158,807,15623,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,356000,"Cupertino, CA",5,4,Backend,196000,125000,35000,NA,NA,7158,807,15680,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,433000,"Cupertino, CA",5,5,System frameworks,198000,220000,15000,Male,NA,7158,807,15844,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,183000,"Seattle, WA",5,0,ML / AI,150000,33000,0,Male,NA,11527,819,15953,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Data Scientist,306000,"Cupertino, CA",5,4,ML / AI,192000,89000,20000,Male,PhD,7158,807,16293,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2019,Apple,ICT3,Software Engineer,255000,"Cupertino, CA",5,3,ML / AI,147000,90000,18000,NA,Masters,7158,807,17796,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,ICT3,Hardware Engineer,190000,"Cupertino, CA",5,2,Wireless,131000,45000,15000,Male,Masters,7158,807,18326,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,ICT3,Hardware Engineer,245000,"Cupertino, CA",5,1,Health sensing,165000,65000,15000,Male,PhD,7158,807,18499,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2019,Apple,ICT3,Software Engineer,208000,"Cupertino, CA",5,2,CoreOS,147000,45000,16000,Male,NA,7158,807,18727,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,490000,"Cupertino, CA",5,5,iOS,210000,250000,30000,Male,NA,7158,807,19243,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT3,Software Engineer,260000,"Sunnyvale, CA",5,4,computer vision,160000,85000,15000,Male,Masters,7472,807,20618,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT3,Software Engineer,172000,"New York, NY",5,1,API Development (Back-End),137000,26000,9000,Male,"Sign On Bonus $50,000",10182,501,20863,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT4,Software Engineer,250000,"Cupertino, CA",5,0,Testing (SDET),180000,50000,18000,NA,NA,7158,807,20871,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT4,Software Engineer,370000,"Cupertino, CA",5,0,ML / AI,200000,150000,20000,NA,PhD,7158,807,21134,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2020,Apple,ICT4,Hardware Engineer,220000,"Cupertino, CA",5,5,Operations,165000,35000,20000,Male,Masters,7158,807,21253,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT4,Software Engineer,345000,"Cupertino, CA",5,1,Full Stack,195000,130000,20000,Male,Masters,7158,807,21787,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT4,Software Engineer,247000,"Cupertino, CA",5,3.5,ML / AI,172000,60000,15000,Male,Masters,7158,807,24089,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2018,Apple,M1,Software Engineering Manager,180000,"Cupertino, CA",6,2,Full Stack,180000,175000,20000,NA,NA,7158,807,1317,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,212000,"Cupertino, CA",6,3,iOS,137000,55000,20000,NA,NA,7158,807,1698,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,212000,"Cupertino, CA",6,3,iOS,137000,55000,20000,NA,NA,7158,807,1699,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,235000,"Sunnyvale, CA",6,0,Systems,195000,40000,0,NA,NA,7472,807,1792,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Data Scientist,188000,"Cupertino, CA",6,1,ML / AI,125000,50000,14000,NA,NA,7158,807,2413,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,Engineer,Software Engineer,125000,"Cupertino, CA",6,2,Testing (SDET),125000,0,0,NA,NA,7158,807,2427,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Data Scientist,322000,"Cupertino, CA",6,2,ML / AI,176000,0,0,NA,NA,7158,807,2818,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,apple,ICT4,Software Engineer,300000,"Cupertino, CA",6,2,iOS,185000,85000,20000,NA,NA,7158,807,2975,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,275000,"Cupertino, CA",6,3,iOS,185000,70000,20000,NA,NA,7158,807,3112,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,377000,"Cupertino, CA",6,6,iOS,190000,177000,10000,NA,NA,7158,807,3460,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT5,Software Engineer,280000,"Hong Kong, HK, Hong Kong (SAR)",6,3,DevOps,140000,120000,25000,NA,NA,14938,0,3592,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Data Scientist,300000,"Cupertino, CA",6,2,Services,176000,100000,20000,Male,NA,7158,807,4579,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,303000,"Cupertino, CA",6,1,Full Stack,164000,125000,14000,Male,NA,7158,807,5363,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,260000,"Cupertino, CA",6,2,Testing (SDET),170000,70000,20000,NA,NA,7158,807,7117,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,230000,"Cupertino, CA",6,3,Full Stack,150000,60000,20000,Female,NA,7158,807,7402,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,242000,"Seattle, WA",6,0,Distributed Systems (Back-End),175000,50000,17000,NA,NA,11527,819,8510,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,225000,"Cupertino, CA",6,0,iOS,160000,30000,35000,Male,NA,7158,807,9368,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,391000,"Sunnyvale, CA",6,2,ML / AI,207000,160000,24000,NA,NA,7472,807,9641,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,Senior,Software Engineer,270000,"Cupertino, CA",6,4,API Development (Back-End),160000,95000,15000,Other,NA,7158,807,9799,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,250000,"Cupertino, CA",6,3,R&D,160000,80000,10000,Male,NA,7158,807,9973,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,210000,"Cupertino, CA",6,3,SoC,153000,40000,17000,Male,NA,7158,807,10396,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,186000,"Cupertino, CA",6,4,DevOps,151000,15000,15000,Male,NA,7158,807,11318,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,180000,"Cupertino, CA",6,0,Testing (SDET),140000,26000,14000,Male,NA,7158,807,12912,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,320000,"Cupertino, CA",6,3,DevOps,170000,120000,30000,Male,NA,7158,807,13553,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,265000,"San Diego, CA",6,0,Software development,140000,105000,20000,Male,NA,7416,825,13814,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,255000,"Cupertino, CA",6,0,Firmware Engineering,175000,40000,40000,Male,NA,7158,807,13983,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,199000,"Sunnyvale, CA",6,2,Testing (SDET),139000,50000,10000,Female,NA,7472,807,15307,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,340000,"Cupertino, CA",6,6,iOS,160000,160000,20000,Male,NA,7158,807,15821,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,267000,"Sunnyvale, CA",6,1,Full Stack,166000,76000,25000,Male,NA,7472,807,15859,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,215000,"Cupertino, CA",6,3,Modeling,138000,65000,14000,Female,NA,7158,807,15928,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,200000,"Cupertino, CA",6,2,Full Stack,150000,35000,15000,Male,NA,7158,807,15958,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,416000,"Cupertino, CA",6,5,Compilers,182000,234000,0,Male,NA,7158,807,16179,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,235000,"Cupertino, CA",6,1,hardware,164000,56000,15000,Female,NA,7158,807,16374,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Data Scientist,505000,"Cupertino, CA",6,4,ML / AI,189000,288000,30000,NA,NA,7158,807,16826,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,185000,"Austin, TX",6,2,Full Stack,118000,50000,15000,Male,Masters,10965,635,17035,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,L2,Software Engineering Manager,400000,"Cupertino, CA",6,2,Security,199000,180000,21000,Other,NA,7158,807,17057,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT3,Hardware Engineer,200000,"Cupertino, CA",6,0,SoC Hardware,150000,35000,15000,Male,20K sign on bonus - Masters,7158,807,20055,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT3,Hardware Engineer,210000,"Austin, TX",6,6,Hardware,132000,60000,15000,Male,Masters,10965,635,20527,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT4,Data Scientist,210000,"Cupertino, CA",6,0.5,Full Stack,160000,32000,18000,NA,Masters,7158,807,20706,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,Senior,Software Engineer,430000,"Cupertino, CA",6,1,Distributed Systems (Back-End),200000,200000,30000,Male,Masters,7158,807,22080,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT4,Software Engineer,300000,"Cupertino, CA",6,1,Site Reliability (SRE),200000,50000,50000,Male,PhD,7158,807,23827,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2020,Apple,ICT3,Hardware Engineer,217000,"Cupertino, CA",6,6,Reliability engineer,141000,60000,16000,Male,NA,7158,807,23929,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT4,Software Engineer,290000,"Vancouver, BC, Canada",6,4,API Development (Back-End),150000,110000,30000,Male,NA,1320,0,24439,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT4,Data Scientist,252000,"Cupertino, CA",6,0,data science,180000,45000,27000,Female,Masters,7158,807,24856,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple Inc.,ICT4,Software Engineer,296000,"Cupertino, CA",6,6,iOS,171000,100000,25000,Male,NA,7158,807,24995,0,0,0,0,0,0,0,0,0,0,NA,NA
+2017,Apple,M1,Software Engineering Manager,372000,"Sunnyvale, CA",7,5,NA,157000,180000,35000,NA,NA,7472,807,7,0,0,0,0,0,0,0,0,0,0,NA,NA
+2017,Apple,ICT4,Product Manager,305000,"San Francisco, CA",7,1,NA,180000,60000,65000,NA,NA,7419,807,120,0,0,0,0,0,0,0,0,0,0,NA,NA
+2017,Apple,M1,Software Engineering Manager,385000,"San Francisco, CA",7,1,NA,215000,120000,50000,NA,NA,7419,807,145,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT5,Software Engineer,580000,"Cupertino, CA",7,4,iOS,210000,300000,70000,Male,NA,7158,807,1192,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,280000,"Cupertino, CA",7,4,iOS,150000,100000,20000,Male,NA,7158,807,1294,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,245000,"Sunnyvale, CA",7,1,Distributed Systems (Back-End),175000,40000,30000,NA,NA,7472,807,2480,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,250000,"Sunnyvale, CA",7,0,API Development (Back-End),170000,40000,40000,NA,NA,7472,807,2501,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT5,Software Engineer,372000,"Cupertino, CA",7,7,iOS,192000,150000,30000,NA,NA,7158,807,2783,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,4`,Software Engineer,370000,"Seattle, WA",7,0,API Development (Back-End),200000,150000,20000,Male,NA,11527,819,3884,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Hardware Engineer,225000,"Cupertino, CA",7,0,Hardware,165000,40000,20000,Male,NA,7158,807,4088,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,305000,"Cupertino, CA",7,5,iOS,180000,100000,25000,Male,NA,7158,807,4702,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,380000,"San Francisco, CA",7,3,ML / AI,180000,180000,20000,Male,NA,7419,807,6242,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,287000,"Cupertino, CA",7,4,Hardware,165000,100000,22000,Male,NA,7158,807,6889,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,224000,"Cupertino, CA",7,4,Firmware,135000,69000,20000,Male,NA,7158,807,7032,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,L4,Software Engineer,250000,"Cupertino, CA",7,1,Full Stack,190000,55000,10000,NA,NA,7158,807,8057,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,265000,"Santa Clara, CA",7,1,DevOps,190000,45000,30000,Male,NA,7434,807,8347,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,187000,"Cupertino, CA",7,1,DevOps,145000,27000,15000,Male,NA,7158,807,9120,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,625000,"San Francisco, CA",7,1,ML / AI,225000,364000,36000,Male,NA,7419,807,9527,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,L3,Hardware Engineer,220000,"Cupertino, CA",7,4,HW,140000,60000,20000,NA,NA,7158,807,10880,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT 3,Hardware Engineer,263000,"Cupertino, CA",7,6,Hardware,155000,90000,18000,Male,NA,7158,807,12115,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,387000,"London, EN, United Kingdom",7,2,Networking,180000,172000,35000,Male,NA,12008,0,14619,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,193000,"Cupertino, CA",7,2.5,Full Stack,155000,25000,10000,Male,NA,7158,807,14872,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT2,Software Engineer,85000,"Austin, TX",7,3,Full Stack,76000,5000,4000,Male,NA,10965,635,14921,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,226000,"Sunnyvale, CA",7,7,Distributed Systems (Back-End),161000,50000,15000,Male,NA,7472,807,15004,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,M1,Software Engineering Manager,250000,"Cupertino, CA",7,1,macOS,200000,40000,10000,Male,NA,7158,807,15059,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,383000,"Cupertino, CA",7,7,iOS,155000,200000,28000,Male,NA,7158,807,15490,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,170000,"Cupertino, CA",7,7,iOS,160000,0,10000,NA,NA,7158,807,15724,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,318000,"Cupertino, CA",7,2,Full Stack,170000,125000,23000,Male,NA,7158,807,15813,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,181000,"Cupertino, CA",7,3,Hardware engineering,139000,30000,12000,Female,NA,7158,807,15871,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,585000,"Cupertino, CA",7,0,ML / AI,240000,300000,45000,Male,NA,7158,807,16793,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,190000,"Cupertino, CA",7,1,iOS,150000,30000,10000,Male,NA,7158,807,17100,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,225000,"Cupertino, CA",7,4,Sensors,147000,63000,15000,Male,Masters,7158,807,18198,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,ICT3,Software Engineer,142000,"Paris, IL, France",7,2,Security,77000,55000,10000,Male,Masters,6409,0,18225,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT3,Software Engineer,173000,"Cupertino, CA",7,1,CoreOS,138000,25000,10000,NA,NA,7158,807,20375,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT4,Software Engineering Manager,318000,"San Francisco, CA",7,6,Full Stack,183000,110000,25000,Male,NA,7419,807,20887,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT4,Hardware Engineer,315000,"Sunnyvale, CA",7,4,Display Incubation,165000,140000,11000,Male,"Software Development (CV, ML) - Masters",7472,807,21507,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT3,Hardware Engineer,324000,"Cupertino, CA",7,5,ASIC,154000,150000,20000,Male,Masters,7158,807,22022,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2018,Apple,ICT3,Software Engineer,205000,"Cupertino, CA",8,4,NA,135000,60000,10000,Male,NA,7158,807,622,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,471000,"Cupertino, CA",8,5,iOS,181000,250000,40000,NA,NA,7158,807,1394,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,490000,"Cupertino, CA",8,6,iOS,180000,280000,30000,NA,NA,7158,807,2287,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,247000,"Sunnyvale, CA",8,1,API Development (Back-End),170000,40000,37000,NA,NA,7472,807,2630,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,352000,"Cupertino, CA",8,6,Distributed Systems (Back-End),195000,125000,32000,NA,NA,7158,807,2740,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,284000,"Sunnyvale, CA",8,4,Web Development (Front-End),165000,102000,27000,NA,NA,7472,807,2848,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Product Designer,247000,"Cupertino, CA",8,0,Design,187000,40000,20000,NA,NA,7158,807,2961,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,276000,"San Francisco, CA",8,0,Distributed Systems (Back-End),151000,125000,10000,NA,NA,7419,807,3258,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,349000,"Cupertino, CA",8,5,Distributed Systems (Back-End),183000,140000,26000,NA,NA,7158,807,3365,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,L3,Software Engineer,258000,"Cupertino, CA",8,1,ML / AI,147000,95000,16000,NA,NA,7158,807,3370,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,235000,"Sunnyvale, CA",8,1,Distributed Systems (Back-End),175000,40000,20000,Male,NA,7472,807,4647,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,330000,"Cupertino, CA",8,4,Full Stack,170000,130000,30000,Male,NA,7158,807,6423,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,325000,"Cupertino, CA",8,5,API Development (Back-End),170000,130000,25000,Male,NA,7158,807,7414,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,197000,"Cupertino, CA",8,4,Operations,124000,62000,11000,Female,NA,7158,807,7647,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,385000,"Cupertino, CA",8,5,iOS,195000,150000,40000,Female,NA,7158,807,8196,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,340000,"Cupertino, CA",8,2,Mobile (iOS + Android),182000,100000,60000,NA,40K is from patent,7158,807,8559,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,290000,"Cupertino, CA",8,3,Full Stack,155000,120000,15000,NA,NA,7158,807,8602,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,250000,"Cupertino, CA",8,1,Hardware,150000,80000,20000,Male,NA,7158,807,8658,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,245000,"Cupertino, CA",8,2.5,Hardware,148000,85000,15000,NA,NA,7158,807,10397,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,310000,"Cupertino, CA",8,6,iOS,157000,120000,33000,Male,NA,7158,807,11095,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,320000,"Cupertino, CA",8,1,API Development (Back-End),185000,115000,20000,Male,NA,7158,807,11208,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,211000,"Austin, TX",8,0,Design Verification Engineer,150000,36000,25000,Male,NA,10965,635,11242,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,244000,"Austin, TX",8,5,Hardware Engineer,140000,80000,22000,Male,NA,10965,635,11683,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,325000,"Cupertino, CA",8,3,Hardware,200000,25000,100000,Male,NA,7158,807,12113,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,270000,"Cupertino, CA",8,0,Security,175000,65000,25000,Male,NA,7158,807,13963,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,310000,"Cupertino, CA",8,8,HW,161000,130000,20000,Male,NA,7158,807,14512,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,217000,"Cupertino, CA",8,3,iOS,130000,80000,7000,Male,NA,7158,807,15192,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,200000,"Cupertino, CA",8,2,iOS,140000,50000,10000,NA,NA,7158,807,15379,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,289000,"Cupertino, CA",8,6,API Development (Back-End),175000,100000,12000,Male,NA,7158,807,15409,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Solution Architect,314000,"Cupertino, CA",8,3,Cameras,184000,100000,30000,Male,NA,7158,807,15439,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Data Scientist,340000,"Cupertino, CA",8,4,ML / AI,180000,135000,25000,Male,NA,7158,807,15536,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,350000,"Cupertino, CA",8,3,DevOps,168000,160000,22000,Male,NA,7158,807,15799,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,285000,"Cupertino, CA",8,2,ML / AI,153000,120000,12000,Male,NA,7158,807,15878,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,287000,"Cupertino, CA",8,4,Embedded system,187000,80000,20000,Male,NA,7158,807,15893,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,214000,"Cupertino, CA",8,1,Hardware,155000,44000,16000,Male,High performance,7158,807,16021,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,327000,"Cupertino, CA",8,5,iOS,182000,125000,20000,Male,NA,7158,807,16128,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,385000,"Cupertino, CA",8,8,iOS,200000,150000,35000,Male,NA,7158,807,16440,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,270000,"Cupertino, CA",8,4,Testing (SDET),176000,80000,13000,Male,NA,7158,807,17131,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,445000,"Sunnyvale, CA",8,3,Distributed Systems (Back-End),190000,210000,45000,Male,PhD,7472,807,17677,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2019,Apple,ICT5,Software Engineer,500000,"Cupertino, CA",8,3.5,Distributed Systems (Back-End),222000,245000,30000,Male,Masters,7158,807,18143,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,ICT4,Software Engineer,354000,"Pittsburgh, PA",8,3,iOS,182000,152000,18000,Male,Masters,10648,508,18670,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,ICT4,Software Engineer,270000,"Cupertino, CA",8,2,Testing (SDET),180000,10000,80000,Male,Masters,7158,807,19521,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,ICT2,Software Engineer,134000,"San Diego, CA",8,6,iOS,99000,29000,6000,Male,NA,7416,825,19524,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT4,Software Engineer,260000,"Cupertino, CA",8,1,Machine Learning,220000,40000,0,Male,PhD,7158,807,19940,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2020,Apple,ICT4,Software Engineer,400000,"Cupertino, CA",8,3,API Development (Back-End),180000,190000,30000,Male,NA,7158,807,20112,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,L4,Product Manager,240000,"Cupertino, CA",8,1,Apple Pay,160000,40000,40000,Female,Masters,7158,807,20600,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,Engineering Manager,Software Engineering Manager,520000,"Cupertino, CA",8,3,Full Stack,200000,300000,20000,Male,Masters,7158,807,21002,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT3,Software Engineer,236000,"Santa Clara, CA",8,3,Full Stack,160000,50000,25000,Male,NA,7434,807,21703,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT4,Software Engineer,290000,"Cupertino, CA",8,3,Full Stack,170000,100000,20000,Male,NA,7158,807,23549,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT5,Data Scientist,425000,"Sunnyvale, CA",9,1,ML / AI,200000,150000,75000,NA,NA,7472,807,3271,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Product Manager,265000,"Cupertino, CA",9,4,iOS,156000,90000,19000,Male,NA,7158,807,4524,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,280000,"Cupertino, CA",9,1,iOS,200000,80000,7000,Male,NA,7158,807,5528,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Product Manager,285000,"San Jose, CA",9,3,Mobile (iOS + Android),155000,100000,20000,Male,NA,7422,807,7224,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ict4,Software Engineer,225000,"Cupertino, CA",9,2,Connectivity,165000,40000,20000,NA,NA,7158,807,7428,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ITC3,Software Engineer,247000,"Cupertino, CA",9,3,DevOps,145000,90000,12000,Male,NA,7158,807,8133,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,IC4,Product Manager,234000,"Cupertino, CA",9,4,Online Store,145000,75000,14000,Male,NA,7158,807,8332,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Product Designer,180000,"Santa Clara, CA",9,1,iOS,140000,26000,15000,Male,NA,7434,807,8455,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,210000,"Singapore, SG, Singapore",9,3,Distributed Systems (Back-End),120000,80000,10000,NA,NA,17912,0,8473,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,215000,"Santa Clara, CA",9,2,Testing (SDET),140000,65000,10000,Male,NA,7434,807,9070,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Hardware Engineer,350000,"Cupertino, CA",9,6.5,DevOps,180000,150000,20000,NA,NA,7158,807,10827,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,292000,"Cupertino, CA",9,6,iOS,177000,90000,25000,Male,NA,7158,807,11313,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,395000,"Cupertino, CA",9,9,iOS,190000,180000,25000,Male,NA,7158,807,12638,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,210000,"Dallas, TX",9,0,Full Stack,150000,40000,20000,Male,NA,11039,623,12687,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,360000,"Cupertino, CA",9,7,Networking,190000,0,25000,Male,NA,7158,807,13582,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT 3,Hardware Engineer,210000,"Cupertino, CA",9,2,Networking,135000,60000,15000,NA,NA,7158,807,14453,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,240000,"Cupertino, CA",9,7,Full Stack,135000,85000,20000,Male,NA,7158,807,15155,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,328000,"Cupertino, CA",9,3,SOC Design,196000,100000,32000,NA,NA,7158,807,15382,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,319000,"Cupertino, CA",9,8,Web Development (Front-End),178000,120000,21000,Other,NA,7158,807,15961,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,178000,"Sunnyvale, CA",9,1,Graphics,145000,25000,8000,Male,NA,7472,807,16313,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,273000,"Cupertino, CA",9,1,Hardware engineer,186000,75000,12000,Male,NA,7158,807,16427,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,220000,"Cupertino, CA",9,0,Testing (SDET),170000,30000,20000,Male,NA,7158,807,19303,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,APPLE,M12,Product Designer,72000,"San Diego, CA",9,6,Full Stack,60000,0,12000,NA,NA,7416,825,21148,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT4,Software Engineer,234000,"London, EN, United Kingdom",9,3,DevOps,117000,102000,14000,Male,NA,12008,0,22795,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,Engineer,Hardware Engineer,198000,"San Diego, CA",9,0,Verification,150000,28000,15000,NA,NA,7416,825,24693,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT5,Software Engineer,380000,"Seattle, WA",9,0,Distributed Systems (Back-End),210000,138000,32000,Male,"Signing bonus $50K on Y1, $20K on Y2, Additional bonuses to maintain $420K total after 1st year",11527,819,25400,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT-4,Software Engineer,230000,"Cupertino, CA",10,1,NA,155000,80000,15000,Male,NA,7158,807,669,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,M2,Software Engineering Manager,495000,"Cupertino, CA",10,10,iOS,220000,250000,25000,Male,"Stock grant & bonus is yearly refresh, at time of grant (not including stock appreciation)",7158,807,940,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,270000,"Cupertino, CA",10,1,ML / AI,170000,80000,20000,Male,NA,7158,807,1120,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,400000,"Cupertino, CA",10,5,iOS,180000,0,16000,Female,NA,7158,807,1157,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,283000,"Cupertino, CA",10,0,iOS,170000,57000,63000,NA,100k Sign-on,7158,807,2236,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,M2,Software Engineering Manager,450000,"Cupertino, CA",10,10,iOS,205000,215000,35000,NA,NA,7158,807,2366,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Software Engineer,205000,"Cupertino, CA",10,1,DevOps,150000,40000,15000,NA,NA,7158,807,2583,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,255000,"Sunnyvale, CA",10,1,Android,185000,40000,30000,NA,NA,7472,807,2756,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,255000,"Sunnyvale, CA",10,2,API Development (Back-End),165000,65000,25000,NA,NA,7472,807,3646,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,280000,"Cupertino, CA",10,1,ML / AI,170000,90000,20000,Male,NA,7158,807,3838,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,280000,"Sunnyvale, CA",10,2,Distributed Systems (Back-End),161000,97000,23000,Male,NA,7472,807,4332,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,377000,"Sunnyvale, CA",10,4,Distributed Systems (Back-End),172000,180000,25000,Male,NA,7472,807,4943,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,350000,"Cupertino, CA",10,7,iOS,175000,150000,25000,Male,NA,7158,807,5407,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ic4,Recruiter,170000,"Cupertino, CA",10,2,Hardware,165000,0,0,Female,NA,7158,807,5734,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,285000,"Cupertino, CA",10,6,Full Stack,185000,65000,35000,Male,NA,7158,807,6383,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineering Manager,310000,"Cupertino, CA",10,2,ML / AI,190000,100000,20000,NA,NA,7158,807,7779,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,235000,"Cupertino, CA",10,2,ML / AI,160000,65000,10000,Male,NA,7158,807,8056,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,300000,"Cupertino, CA",10,6,iOS,180000,100000,20000,Male,NA,7158,807,8253,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,196000,"Austin, TX",10,0,DevOps,145000,36000,15000,NA,NA,10965,635,9126,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,390000,"Cupertino, CA",10,1,Android,195000,170000,25000,Male,NA,7158,807,9507,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,653000,"Cupertino, CA",10,6,iOS,230000,380000,43000,NA,NA,7158,807,9719,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,265000,"Cupertino, CA",10,1,Full Stack,185000,40000,40000,Female,NA,7158,807,9722,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,320000,"Cupertino, CA",10,5,API Development (Back-End),178000,120000,22000,NA,NA,7158,807,14452,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,193000,"Sunnyvale, CA",10,0,Web Development (Front-End),160000,23000,10000,Male,NA,7472,807,14600,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,470000,"Seattle, WA",10,3,ML / AI,230000,200000,40000,Male,NA,11527,819,14682,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,406000,"Cupertino, CA",10,5,API Development (Back-End),190000,196000,20000,Male,NA,7158,807,15284,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,285000,"Cupertino, CA",10,1,Test,145000,120000,20000,Male,NA,7158,807,15716,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,360000,"Cupertino, CA",10,3,ML / AI,187000,140000,33000,Male,NA,7158,807,16156,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,337000,"Cupertino, CA",10,6,Distributed Systems (Back-End),197000,120000,20000,Male,NA,7158,807,16496,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,Senior,Product Designer,232000,"Cupertino, CA",10,0,Product Design,175000,40000,17000,Male,NA,7158,807,17094,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineering Manager,300000,"Santa Clara, CA",10,5,Testing (SDET),185000,100000,15000,Male,Masters,7434,807,17546,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,ICT3,Software Engineer,238000,"Sunnyvale, CA",10,0,Full Stack,180000,40000,18000,Male,Signon 50K - Masters,7472,807,17589,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,4,Hardware Engineer,305000,"Cupertino, CA",10,2,Hardware,178000,107000,20000,Male,Masters,7158,807,17748,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,ICT5,Software Engineer,595000,"Seattle, WA",10,0,iOS,225000,325000,45000,Male,NA,11527,819,19021,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Data Scientist,230000,"Cupertino, CA",10,0,ML / AI,170000,40000,20000,Male,PhD,7158,807,19397,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2020,Apple,ICT4,Software Engineer,280000,"Cupertino, CA",10,3,API Development (Back-End),180000,80000,20000,Male,Masters,7158,807,19922,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT4,Hardware Engineer,300000,"Cupertino, CA",10,2,Hardware,155000,120000,25000,Male,Masters,7158,807,20130,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT4,Software Engineer,380000,"Cupertino, CA",10,3,API Development (Back-End),197000,150000,35000,Male,Masters,7158,807,20166,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT4,Data Scientist,231000,"Cupertino, CA",10,10,Services,152000,55000,24000,Female,Masters,7158,807,20657,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT5,Software Engineer,328000,"Cupertino, CA",10,2,OS,168000,135000,25000,Male,NA,7158,807,21709,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT4,Product Manager,250000,"Cupertino, CA",10,0,Firmware,180000,70000,0,Male,Masters,7158,807,22014,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT4,Data Scientist,300000,"Cupertino, CA",10,3,product,190000,90000,18000,Female,Masters,7158,807,23097,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT4,Software Engineer,337000,"Cupertino, CA",10,0,Testing (SDET),190000,119000,28000,Male,50k sign on bonus,7158,807,23225,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT4,Software Engineer,238000,"Cupertino, CA",10,0,DevOps,180000,40000,18000,Male,Masters,7158,807,23634,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT4,Hardware Engineer,340000,"Cupertino, CA",10,2,Front end,190000,120000,30000,Male,Masters,7158,807,23990,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT4,Product Designer,325000,"Cupertino, CA",10,6,mechanical engineering,175000,120000,30000,Male,Masters,7158,807,24768,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT4,Software Engineer,470000,"Cupertino, CA",10,1,iOS,190000,250000,25000,Male,NA,7158,807,24941,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,IC4,Software Engineer,352000,"San Francisco, CA",10,5,Distributed Systems (Back-End),180000,150000,25000,Male,Masters,7419,807,25125,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2018,Apple,ICT4,Hardware Engineer,300000,"Cupertino, CA",11,4,Hardware,170000,105000,25000,NA,NA,7158,807,2334,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,300000,"Sunnyvale, CA",11,3,iOS,175000,100000,20000,NA,NA,7472,807,2471,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT5,Software Engineer,450000,"Cupertino, CA",11,5,iOS,220000,180000,50000,NA,NA,7158,807,2885,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,300000,"Cupertino, CA",11,0,GPU,190000,80000,30000,Male,NA,7158,807,4768,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,308000,"Cupertino, CA",11,4,Mobile (iOS + Android),190000,100000,18000,Male,NA,7158,807,8697,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,315000,"Sunnyvale, CA",11,2,CVML,197000,106000,12000,Male,NA,7472,807,11758,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,215000,"Cupertino, CA",11,1,Distributed Systems (Back-End),150000,50000,20000,Male,Pretty awesome place to work,7158,807,15074,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,MGT1,Hardware Engineer,385000,"Cupertino, CA",11,7,Hardware,179000,179000,25000,Male,Masters,7158,807,18917,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT4,Data Scientist,350000,"Cupertino, CA",11,4,ML / AI,190000,145000,15000,Male,PhD,7158,807,19563,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2020,Apple,ICT4,Hardware Engineer,280000,"Austin, TX",11,0,Validation,175000,80000,25000,Male,Masters,10965,635,24249,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2018,Apple,ICT4,Software Engineer,271000,"Cupertino, CA",12,3,Mobile (iOS + Android),168000,93000,10000,Male,NA,7158,807,881,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,M1,Software Engineering Manager,379000,"Cupertino, CA",12,8,QA / Testing,182000,170000,27000,Male,NA,7158,807,1181,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,L4,Software Engineer,275000,"Cupertino, CA",12,3,API Development (Back-End),156000,30000,15000,NA,NA,7158,807,1376,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Product Manager,450000,"Cupertino, CA",12,3,Distributed Systems (Back-End),193000,220000,37000,NA,NA,7158,807,1692,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,L4,Software Engineer,300000,"San Francisco, CA",12,1,Distributed Systems (Back-End),190000,100000,10000,NA,NA,7419,807,2441,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,M2,Software Engineering Manager,340000,"Cupertino, CA",12,4,API Development (Back-End),180000,140000,20000,NA,NA,7158,807,2493,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,305000,"Cupertino, CA",12,4,Distributed Systems (Back-End),175000,110000,20000,NA,NA,7158,807,3341,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT3,Product Manager,280000,"San Francisco, CA",12,5,iOS,165000,100000,15000,NA,NA,7419,807,3481,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT5,Software Engineer,280000,"Cupertino, CA",12,3,iOS,175000,85000,20000,Male,NA,7158,807,3870,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,275000,"Vancouver, BC, Canada",12,1,API Development (Back-End),165000,50000,60000,Male,NA,1320,0,4667,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,Ict4,Product Manager,280000,"Cupertino, CA",12,2,Product management,163000,100000,17000,Male,NA,7158,807,4761,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,397000,"Cupertino, CA",12,7,iOS,209000,161000,27000,Male,NA,7158,807,5620,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,272000,"Sunnyvale, CA",12,0,ML / AI,190000,63000,19000,Male,NA,7472,807,5691,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,IC5,Product Manager,265000,"Sunnyvale, CA",12,3,IS&T,185000,55000,25000,Female,NA,7472,807,6586,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,250000,"Sunnyvale, CA",12,3.5,Distributed Systems (Back-End),170000,60000,20000,Male,NA,7472,807,6842,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineering Manager,250000,"Sunnyvale, CA",12,3.5,Distributed Systems (Back-End),180000,60000,20000,Male,NA,7472,807,6843,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,IC3 PM,Product Manager,182000,"Cupertino, CA",12,1,iOS,145000,22000,15000,Male,NA,7158,807,9479,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,325000,"Cupertino, CA",12,7,HW,180000,120000,25000,NA,NA,7158,807,9568,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,440000,"Cupertino, CA",12,5,iOS,200000,200000,40000,Female,NA,7158,807,9774,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,250000,"Cupertino, CA",12,1,ML / AI,190000,40000,20000,NA,NA,7158,807,9842,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,260000,"Cupertino, CA",12,4,HARDWARE,150000,100000,10000,Male,NA,7158,807,10565,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,280000,"Sunnyvale, CA",12,3,API Development (Back-End),175000,80000,25000,Male,NA,7472,807,10897,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,310000,"Cupertino, CA",12,3,Hardware,180000,100000,30000,NA,NA,7158,807,12636,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,354000,"Santa Clara, CA",12,6,Data,165000,165000,24000,Male,NA,7434,807,13364,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Hardware Engineer,390000,"Cupertino, CA",12,10,Design,170000,190000,30000,Male,NA,7158,807,13575,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Hardware Engineer,425000,"Cupertino, CA",12,9,Hardware,220000,150000,55000,Male,NA,7158,807,15528,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,324000,"Cupertino, CA",12,9,iOS,199000,100000,25000,Male,NA,7158,807,15657,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,256000,"Cupertino, CA",12,1,iOS,175000,69000,12000,Male,NA,7158,807,15765,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,335000,"Cupertino, CA",12,4,Hardware,175000,130000,30000,Male,NA,7158,807,15785,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,M1,Hardware Engineer,310000,"Cupertino, CA",12,6,hardware,170000,120000,20000,Male,NA,7158,807,15868,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Hardware Engineer,278000,"Cupertino, CA",12,2,EPM,173000,85000,20000,Male,NA,7158,807,16372,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,375000,"Cupertino, CA",12,5,Testing (SDET),195000,160000,20000,Male,NA,7158,807,16536,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT4,Software Engineer,312000,"Cupertino, CA",12,1,OS Drivers,188000,68000,56000,NA,NA,7158,807,21764,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT4,Software Engineer,324000,"Cupertino, CA",12,2,Wireless,190000,110000,24000,NA,PhD,7158,807,22470,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2020,Apple,ICT2,Software Engineer,205000,"Santa Clara, CA",12,8,SPG,170000,25000,10000,Male,NA,7434,807,24048,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT4,Hardware Engineer,360000,"Cupertino, CA",12,4,Hardware Engineering,170000,160000,30000,Male,Masters,7158,807,24741,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT5,Technical Program Manager,330000,"Cupertino, CA",12,3,Distributed Systems (Back-End),200000,100000,30000,Female,Masters,7158,807,24841,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2018,Apple,EM2,Software Engineering Manager,415000,"Cupertino, CA",13,3,Full Stack,187000,194000,34000,NA,NA,7158,807,3920,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,303000,"Cupertino, CA",13,7,ML / AI,200000,85000,18000,Male,NA,7158,807,5117,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,M2,Software Engineering Manager,390000,"Cupertino, CA",13,9,iOS,202000,160000,28000,Male,NA,7158,807,6575,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,M2,Software Engineering Manager,420000,"Cupertino, CA",13,9,iOS,202000,180000,38000,Male,NA,7158,807,6934,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,M2,Product Designer,455000,"Cupertino, CA",13,8,Mechanical engineering,215000,200000,40000,Male,NA,7158,807,7930,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,450000,"Cupertino, CA",13,2,iOS,230000,200000,20000,Male,NA,7158,807,8881,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Solution Architect,290000,"Sunnyvale, CA",13,2,Security,180000,90000,20000,Male,NA,7472,807,9544,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,410000,"Cupertino, CA",13,1,iOS,205000,180000,25000,NA,NA,7158,807,9778,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,275000,"Cupertino, CA",13,4,CPU,195000,60000,15000,Male,NA,7158,807,10826,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,340000,"Cupertino, CA",13,5,Hardware,185000,130000,20000,Male,NA,7158,807,12410,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,290000,"Sunnyvale, CA",13,6,Software development,180000,20000,90000,Male,NA,7472,807,13674,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,361000,"Cupertino, CA",13,4,Web Development (Front-End),178000,160000,23000,Male,NA,7158,807,14072,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,Ict5,Software Engineer,408000,"Cupertino, CA",13,5,ML / AI,226000,170000,15000,Male,NA,7158,807,15540,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,333000,"Cupertino, CA",13,4,Hardware,163000,135000,35000,Male,NA,7158,807,15705,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT4,Software Engineer,370000,"Cupertino, CA",13,3,Distributed Systems (Back-End),175000,180000,15000,NA,Masters,7158,807,20878,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2018,Apple,ICT4,Software Engineer,290000,"Cupertino, CA",14,3,NA,170000,90000,30000,NA,NA,7158,807,241,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,259000,"Cupertino, CA",14,1,NA,179000,60000,20000,NA,NA,7158,807,364,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,275000,"Cupertino, CA",14,1,NA,180000,100000,25000,Male,NA,7158,807,512,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,220000,"Sunnyvale, CA",14,1,Distributed Systems (Back-End),180000,40000,0,NA,NA,7472,807,1860,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT5,Software Engineer,352000,"Sunnyvale, CA",14,5,Distributed Systems (Back-End),182000,140000,30000,NA,NA,7472,807,2211,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT5,Software Engineer,550000,"Cupertino, CA",14,6,Research,220000,280000,50000,NA,NA,7158,807,2352,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,273000,"Cupertino, CA",14,1,iOS,190000,62000,21000,NA,NA,7158,807,3092,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,300000,"Cupertino, CA",14,2,API Development (Back-End),187000,100000,20000,NA,NA,7158,807,3132,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,259000,"Cupertino, CA",14,0,Signal processing,190000,50000,19000,Male,NA,7158,807,4369,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,L5,Software Engineer,321000,"Sunnyvale, CA",14,5,Distributed Systems (Back-End),176000,124000,21000,Male,NA,7472,807,6476,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,IC5,Product Manager,325000,"Sunnyvale, CA",14,4,ML / AI,165000,130000,30000,NA,NA,7472,807,8148,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,350000,"Cupertino, CA",14,5,Distributed Systems (Back-End),210000,120000,20000,Male,NA,7158,807,8339,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,270000,"Sunnyvale, CA",14,2,Distributed Systems (Back-End),170000,75000,25000,Male,NA,7472,807,8589,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,M2,Software Engineering Manager,475000,"Cupertino, CA",14,8,Testing (SDET),225000,215000,40000,NA,NA,7158,807,9330,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,566000,"Cupertino, CA",14,2,ML / AI,230000,300000,36000,Male,NA,7158,807,9509,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,601000,"Cupertino, CA",14,8,Full Stack,225000,340000,36000,NA,NA,7158,807,9642,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,M2,Hardware Engineer,600000,"Cupertino, CA",14,7,Hardware,230000,320000,50000,Male,NA,7158,807,13933,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,440000,"Cupertino, CA",14,7,iOS,200000,200000,40000,NA,NA,7158,807,15563,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Product Designer,290000,"Sunnyvale, CA",14,2,Development,170000,80000,40000,Male,NA,7472,807,15573,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,Ict5,Software Engineer,500000,"Cupertino, CA",14,9,iOS,235000,225000,40000,Male,NA,7158,807,22683,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,304000,"Cupertino, CA",15,2.5,DevOps,182000,100000,22000,NA,NA,7158,807,3024,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,L4,Software Engineer,333000,"Cupertino, CA",15,6,Hw,189000,120000,24000,NA,NA,7158,807,3169,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT5,Software Engineer,370000,"Cupertino, CA",15,5,Web Development (Front-End),180000,160000,30000,NA,NA,7158,807,3485,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,300000,"Haifa, HA, Israel",15,4,ML / AI,145000,145000,10000,Male,NA,4037,0,4879,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,450000,"Cupertino, CA",15,3,API Development (Back-End),225000,200000,25000,Male,NA,7158,807,5436,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,IC5,Software Engineer,400000,"San Francisco, CA",15,1,Distributed Systems (Back-End),220000,0,180000,Male,NA,7419,807,7569,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,380000,"Sunnyvale, CA",15,0,iOS,205000,75000,100000,Male,NA,7472,807,8667,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,320000,"Austin, TX",15,5,Embedded,150000,150000,20000,Male,NA,10965,635,8878,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,240000,"Seattle, WA",15,1,Web Development (Front-End),180000,40000,20000,Female,NA,11527,819,10807,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,255000,"Cupertino, CA",15,0,DevOps,190000,40000,25000,Male,NA,7158,807,11107,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,M2,Software Engineering Manager,450000,"Cupertino, CA",15,8,Distributed Systems (Back-End),230000,200000,20000,Male,NA,7158,807,11143,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Hardware Engineer,230000,"Cupertino, CA",15,1,HW,190000,30000,10000,NA,NA,7158,807,11262,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,apple,ICT5,Hardware Engineer,265000,"Cupertino, CA",15,1.5,iOS,190000,65000,10000,NA,NA,7158,807,11278,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,IC5,Software Engineer,400000,"Cupertino, CA",15,1,Distributed Systems,220000,150000,30000,Male,NA,7158,807,12207,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,341000,"Sunnyvale, CA",15,5,API Development (Back-End),167000,150000,24000,Male,NA,7472,807,12981,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Hardware Engineer,390000,"Cupertino, CA",15,5,iOS,230000,100000,60000,Male,NA,7158,807,13980,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Hardware Engineer,390000,"Cupertino, CA",15,2.8,Hardware,200000,150000,40000,Male,NA,7158,807,14962,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,360000,"Cupertino, CA",15,3,HW modelling,200000,115000,45000,Male,NA,7158,807,15577,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,310000,"Cupertino, CA",15,4,Software,190000,100000,20000,Male,NA,7158,807,15645,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT3,Software Engineer,288000,"Cupertino, CA",15,1.75,Distributed Systems (Back-End),168000,100000,20000,Male,NA,7158,807,16761,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,395000,"Sunnyvale, CA",15,3,Distributed Systems (Back-End),185000,180000,30000,Male,IS&T,7472,807,18437,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,M2,Product Manager,510000,"Cupertino, CA",15,12,Product,250000,225000,35000,Male,Masters,7158,807,19715,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,IC4,Product Manager,150000,"Cupertino, CA",15,4,Web Development (Front-End),150000,0,0,Male,NA,7158,807,21062,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,SW Dev Eng Mgr 2,Software Engineering Manager,600000,"Cupertino, CA",15,15,Software Engineering for all Apple platforms,250000,300000,50000,Male,"I'm not sure if I did the ""total comp"" right; I added this year's stock grant, but I have a 4-year pipeline of prior grants whose value changes significantly based on stock price.",7158,807,21733,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT5,Software Engineer,390000,"Cupertino, CA",15,8,modem,206000,150000,34000,Male,Masters,7158,807,21808,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ITC4,Software Engineer,295000,"Cupertino, CA",15,4,iOS,175000,100000,20000,NA,NA,7158,807,22049,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT4,Hardware Engineer,283000,"Austin, TX",15,5,Silicone Design,170000,90000,23000,Male,Masters,10965,635,22516,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT4,Technical Program Manager,218000,"Austin, TX",15,0,Security,170000,36000,12000,Male,NA,10965,635,25260,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT5,Software Engineer,425000,"Sunnyvale, CA",16,2,Distributed Systems (Back-End),235000,150000,30000,Male,NA,7472,807,4415,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,280000,"Sunnyvale, CA",16,0,ML / AI,190000,40000,50000,Male,NA,7472,807,5593,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,Senior,Product Manager,340000,"Sunnyvale, CA",16,5,Data,172000,120000,40000,Male,NA,7472,807,6802,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,M2,Software Engineering Manager,258000,"Cupertino, CA",16,6,Web Development (Front-End),188000,40000,30000,Male,NA,7158,807,10141,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineering Manager,387000,"Cupertino, CA",16,2,ML / AI,227000,130000,30000,Male,NA,7158,807,13681,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,401000,"Sunnyvale, CA",16,4.5,Distributed Systems (Back-End),190000,190000,21000,Male,NA,7472,807,15646,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT5,Software Engineer,365000,"Austin, TX",16,7,iOS,165000,160000,40000,Male,NA,10965,635,21201,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,M1,Software Engineering Manager,310000,"Sunnyvale, CA",16,2,Distributed Systems (Back-End),197000,93000,20000,Male,NA,7472,807,21800,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ITC4,Software Engineer,268000,"Cupertino, CA",16,4,iOS,170000,80000,18000,Male,NA,7158,807,24196,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,EM2,Software Engineering Manager,450000,"Cupertino, CA",17,5,API Development (Back-End),250000,150000,50000,Male,NA,7158,807,7252,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,325000,"Sunnyvale, CA",17,4,Distributed Systems (Back-End),170000,130000,25000,NA,NA,7472,807,10928,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineering Manager,481000,"Seattle, WA",17,6.5,ML / AI,199000,240000,42000,Male,NA,11527,819,15483,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Hardware Engineer,500000,"Cupertino, CA",17,1,Hardware Tech,240000,200000,60000,Male,NA,7158,807,15539,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Hardware Engineer,450000,"Cupertino, CA",17,8,Hardware,200000,200000,50000,Male,NA,7158,807,15624,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT6,Software Engineer,828000,"Cupertino, CA",17,3,Other,278000,450000,100000,Male,NA,7158,807,23582,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Apple,ICT4,Software Engineer,350000,"Cupertino, CA",18,4,iOS,175000,25000,150000,NA,NA,7158,807,1435,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,337000,"Cupertino, CA",18,2,Distributed Systems (Back-End),197000,100000,40000,NA,NA,7158,807,5488,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,M3,Software Engineering Manager,900000,"Cupertino, CA",18,11,ML / AI,225000,575000,100000,Male,NA,7158,807,5775,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Hardware Engineer,365000,"Cupertino, CA",18,1,Hardware,215000,120000,30000,NA,NA,7158,807,12493,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,209000,"Cupertino, CA",18,4,iOS,167000,30000,12000,Male,NA,7158,807,13318,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,280000,"Cupertino, CA",18,7,iOS,201000,60000,20000,Male,NA,7158,807,15083,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Product Manager,280000,"Cupertino, CA",18,2,iOS,190000,60000,30000,NA,NA,7158,807,15096,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,L4,Software Engineer,345000,"Cupertino, CA",18,5,iOS,200000,125000,20000,Male,NA,7158,807,16182,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Hardware Engineer,525000,"Cupertino, CA",18,9,iOS,220000,240000,65000,NA,NA,7158,807,16764,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,5,Hardware Engineer,470000,"Cupertino, CA",18,8,iOS,235000,190000,45000,Male,NA,7158,807,17738,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Hardware Engineer,585000,"Cupertino, CA",18,10,SoC,220000,300000,65000,NA,Masters,7158,807,18076,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT5,Software Engineer,450000,"Cupertino, CA",18,3,Distributed Systems (Back-End),210000,200000,40000,NA,NA,7158,807,20506,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT4,Software Engineer,273000,"Cupertino, CA",18,2,Web Development (Front-End),170000,90000,13000,Male,NA,7158,807,20972,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT5,Hardware Engineer,520000,"Cupertino, CA",18,7,Hardware,220000,236000,64000,NA,Masters,7158,807,24963,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2018,Apple,ICT4,Software Engineer,225000,"Cupertino, CA",19,1,ML / AI,175000,40000,25000,NA,NA,7158,807,1608,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,370000,"Cupertino, CA",19,15,Full Stack,194000,130000,45000,Male,NA,7158,807,14746,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,235000,"Austin, TX",19,2.5,CAD,165000,60000,10000,Male,NA,10965,635,15352,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,390000,"Cupertino, CA",19,8,iOS,215000,150000,25000,NA,NA,7158,807,15952,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,M2,Software Engineering Manager,469000,"Cupertino, CA",19,6,Distributed Systems (Back-End),214000,200000,55000,Male,Masters,7158,807,24351,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2018,Apple,ICT4,Software Engineer,350000,"San Francisco, CA",20,2,iOS,205000,125000,25000,NA,NA,7419,807,3071,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,294000,"Sunnyvale, CA",20,1.5,Distributed Systems (Back-End),186000,80000,28000,Male,NA,7472,807,9474,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,250000,"Cupertino, CA",20,1,Full Stack,180000,40000,30000,NA,NA,7158,807,9982,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,M3,Software Engineering Manager,745000,"Sunnyvale, CA",20,4,ML / AI,255000,70000,420000,Male,NA,7472,807,10292,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Hardware Engineer,412000,"Cupertino, CA",20,8,Hardware Engineering,197000,178000,37000,Male,NA,7158,807,13293,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT6,Hardware Engineer,600000,"Cupertino, CA",20,6,iOS,275000,250000,75000,Male,NA,7158,807,14928,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,450000,"Cupertino, CA",20,1,Full Stack,250000,160000,40000,Male,NA,7158,807,15986,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Hardware Engineer,578000,"Cupertino, CA",20,10,ASIC,250000,250000,78000,NA,Masters,7158,807,17354,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,ICT4,Software Engineer,345000,"Cupertino, CA",20,5,iOS,200000,125000,20000,NA,Masters,7158,807,18444,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Apple,ICT4,Hardware Engineer,305000,"Cupertino, CA",20,12,Hardware,155000,120000,30000,Male,NA,7158,807,20572,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,M3,Software Engineering Manager,300000,"Cupertino, CA",20,10,Distributed Systems (Back-End),250000,0,50000,Male,Masters,7158,807,20810,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2018,Apple,ICT4,Software Engineer,250000,"Sunnyvale, CA",21,1,Games,200000,40000,10000,Male,NA,7472,807,1216,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,354000,"Cupertino, CA",21,17,iOS,200000,130000,24000,NA,NA,7158,807,6494,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,APPLE,ICT4,Software Engineer,354000,"Cupertino, CA",21,1,iOS,224000,100000,30000,Male,NA,7158,807,6583,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,IC5,Software Engineer,312000,"Cupertino, CA",21,5,Distributed Systems (Back-End),256000,50000,6000,Male,NA,7158,807,10065,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,275000,"Cupertino, CA",21,0,Full Stack,185000,33000,0,NA,NA,7158,807,13178,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,460000,"Cupertino, CA",21,3,Full Stack,238000,180000,42000,NA,NA,7158,807,15433,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,571000,"Cupertino, CA",21,12,iOS,226000,300000,45000,NA,NA,7158,807,16124,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT5,Software Engineer,570000,"Cupertino, CA",22,7,Firmware,215000,300000,55000,Male,NA,7158,807,20561,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,IC4,Software Engineer,252000,"Cupertino, CA",23,2,API Development (Back-End),189000,48000,15000,NA,NA,7158,807,7904,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,Ict5,Software Engineer,425000,"Cupertino, CA",23,9,Silicon validation,217000,183000,25000,Male,Masters,7158,807,19008,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Apple,ICT5,Software Engineer,550000,"Cupertino, CA",24,2,iOS,224000,290000,36000,Male,NA,7158,807,6568,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT5,Software Engineer,470000,"Cupertino, CA",30,6,API Development (Back-End),205000,240000,25000,Male,NA,7158,807,14445,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,Technical Director,Software Engineer,1425000,"Cupertino, CA",30,19,iOS,320000,975000,130000,Male,NA,7158,807,14501,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Hardware Engineer,297000,"Cupertino, CA",30,2,HW,173000,95000,29000,NA,NA,7158,807,15286,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,ICT4,Software Engineer,421000,"Cupertino, CA",30,7,Networking,226000,150000,45000,NA,NA,7158,807,17032,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Apple,ICT6,Software Engineer,776000,"San Jose, CA",30,15,iOS,316000,400000,60000,Male,Masters,7422,807,20613,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2018,Apple,ICT4,Software Engineer,351000,"Sunnyvale, CA",34,3,DevOps,214000,117000,20000,NA,NA,7472,807,2266,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Apple,Director 1,Software Engineer,1200000,"Cupertino, CA",35,10,Distributed Systems (Back-End),300000,850000,50000,NA,NA,7158,807,10043,0,0,0,0,0,0,0,0,0,0,NA,NA
