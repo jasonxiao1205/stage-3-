@@ -1,0 +1,31 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn import linear_model
+data = pd.read_csv('adobe.csv')
+data.shape
+data.plot(kind='scatter', x='totalyearlycompensation', y='yearsofexperience')
+plt.show()
+data.plot(kind='box')
+plt.show()
+data.corr() #correlation coefficients we look at second roll and third roll values are 1 and 0.360163
+compensation=pd.DataFrame(data['totalyearlycompensation'])
+yearsofexperience=pd.DataFrame(data['yearsofexperience'])
+lm= linear_model.LinearRegression()
+model= lm.fit(compensation, yearsofexperience)
+model.coef_
+model.intercept_
+model.score(compensation, yearsofexperience)
+yearsofexperience_new= 360163
+compensation_predict= model.predict(yearsofexperience_new)
+compensation_predict
+X= ([362152,400000,455000])
+X= pd.DataFrame(X)
+Y= model.predict(X)
+Y= pd.DataFrame(Y)
+df=pd.concat([X,Y], axis=1, keys=['yearsofexperience_new', 'compensation_predict'])
+df
+data.plot(kind= 'scatter', x='totalyearlycompensation', y='yearsofexperience')
+plt.plot(compensation,model.predict(compensation),color= 'red', linewidth= 2)
+plt.scatter(yearsofexperience_new, compensation_predict, color ='green')
+plt.plot(X, Y, color= 'black',linewidth= 4)
+plt.show()
