@@ -1,0 +1,111 @@
+﻿timestamp,company,level,title,totalyearlycompensation,location,yearsofexperience,yearsatcompany,tag,basesalary,stockgrantvalue,bonus,gender,otherdetails,cityid,dmaid,rowNumber,Masters_Degree,Bachelors_Degree,Doctorate_Degree,Highschool,Some_College,Race_Asian,Race_White,Race_Two_Or_More,Race_Black,Race_Hispanic,Race,Education
+2019,Adobe,Software Engineer 1,Software Engineer,140000,"San Jose, CA",0,0,Distributed Systems (Back-End),120000,20000,0,Male,NA,7422,807,7265,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 2,Software Engineer,167000,"San Jose, CA",0,0,DevOps,130000,30000,7000,Male,NA,7422,807,12395,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,MTS,Hardware Engineer,166000,"San Jose, CA",0,0,Software,140000,13000,13000,Male,NA,7422,807,16750,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 1,Software Engineer,155000,"San Jose, CA",0,0,API Development (Back-End),120000,27000,8000,Male,NA,7422,807,17627,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Member of Technical Staff,Software Engineer,22000,"Delhi, DL, India",0,0,API Development (Back-End),16000,3000,3000,Female,NA,13690,0,18087,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Adobe,Software Engineer 2,Software Engineer,190000,"San Jose, CA",0,0,ML / AI,135000,35000,20000,Male,"50,000 signing - Masters",7422,807,24059,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Adobe,Software Engineer 2,Software Engineer,150000,"San Jose, CA",1,1,Full Stack,120000,22000,8000,NA,NA,7422,807,7245,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 2,Software Engineer,160000,"San Jose, CA",1,0,Full Stack,125000,25000,9000,Male,NA,7422,807,9497,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 3,Software Engineer,210000,"Seattle, WA",1,0,Full Stack,145000,40000,20000,Male,NA,11527,819,10174,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 3,Data Scientist,213000,"San Jose, CA",1,1,ML / AI,148000,50000,15000,Male,NA,7422,807,13453,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Adobe,L1,Product Manager,174000,"Austin, TX",2,1,API Development (Back-End),125000,31000,18000,NA,NA,10965,635,3390,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Adobe,Research Scientist,Software Engineer,320000,"San Jose, CA",2,2,ML / AI,170000,125000,25000,Male,NA,7422,807,4334,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 2,Software Engineer,145000,"Emeryville, CA",2,2,API Development (Back-End),120000,20000,5000,Male,NA,15315,807,4868,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,L3,Product Manager,205000,"San Francisco, CA",2,3.5,Full Stack,135000,50000,20000,Male,NA,7419,807,6156,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 2,Software Engineer,137000,"San Jose, CA",2,1,Data,108000,22000,7000,Male,NA,7422,807,10681,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 3,Software Engineer,155000,"Lehi, UT",2,2,Distributed Systems (Back-End),120000,20000,10000,Male,NA,15555,770,12730,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Product manager 2,Product Manager,180000,"Salt Lake City, UT",2,9,Pm,131000,30000,18000,Male,NA,1180,770,16079,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Adobe,Software Engineer 2,Software Engineer,155000,"Portland, OR",2,2,Distributed Systems (Back-End),111000,33000,11000,Male,Masters,10522,820,21437,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Adobe,Software Engineer 2,Software Engineer,169000,"San Francisco, CA",2,1,iOS,130000,30000,9000,Male,Title: iOS Developer,7419,807,22192,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Adobe,Computer Scientist I,Software Engineer,250000,"San Jose, CA",3,1.5,API Development (Back-End),140000,100000,10000,NA,NA,7422,807,2166,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 3,Software Engineer,166000,"Seattle, WA",3,3,Mobile (iOS + Android),133000,26000,7000,Female,NA,11527,819,5536,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 2,Software Engineer,185000,"San Jose, CA",3,0,DevOps,130000,25000,30000,NA,NA,7422,807,8446,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 1,Software Engineer,173000,"San Jose, CA",3,0,Distributed Systems (Back-End),125000,27000,20000,Male,NA,7422,807,8488,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 3,Software Engineer,175000,"New York, NY",3,0,Android,139000,26000,7000,Male,NA,10182,501,11456,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 4,Software Engineer,290000,"San Jose, CA",3,3,Distributed Systems (Back-End),176000,105000,9000,NA,NA,7422,807,12956,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 3,Software Engineer,190000,"New York, NY",3,0,Web Development (Front-End),145000,35000,10000,Male,NA,10182,501,14225,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 2,Software Engineer,146000,"San Diego, CA",3,3,Full Stack,120000,20000,6000,NA,NA,7416,825,17137,0,0,0,0,0,0,0,0,0,0,NA,NA
+2017,Adobe,Software Engineer 3,Software Engineer,165000,"San Jose, CA",4,1,NA,135000,25000,5000,NA,NA,7422,807,170,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Adobe,Computer Scientist I,Software Engineer,240000,"San Jose, CA",4,2,API Development (Back-End),140000,95000,5000,Male,NA,7422,807,3746,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 3,Software Engineer,224000,"Seattle, WA",4,0,API Development (Back-End),170000,43000,11000,Male,Masters,11527,819,18243,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Adobe,Software Engineer 3,Software Engineer,160000,"San Jose, CA",4,4,iOS,132000,21000,7000,Male,ESPP - Masters,7422,807,18464,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2018,Adobe,Software Engineer 4,Product Manager,275000,"San Francisco, CA",5,1,Mobile (iOS + Android),170000,80000,25000,Male,NA,7419,807,947,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Adobe,Software Engineer 4,Software Engineer,261000,"New York, NY",5,5,Full Stack,148000,106000,7000,NA,NA,10182,501,3581,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Adobe,Senior,Software Engineer,205000,"San Jose, CA",5,0.5,Web Development (Front-End),155000,42000,8000,Female,NA,7422,807,3945,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,sde3,Software Engineer,172000,"New York, NY",5,3,Web Development (Front-End),130000,36000,6000,Male,NA,10182,501,5731,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Site Reliability Engineer,Software Engineer,148000,"Lehi, UT",5,0,DevOps,115000,25000,8000,Male,NA,15555,770,9537,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 3,Software Engineer,146000,"Austin, TX",5,1,DevOps,103000,36000,7000,Male,NA,10965,635,11026,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 3,Software Engineer,190000,"New York, NY",5,3,Web Development (Front-End),130000,50000,10000,Male,NA,10182,501,12211,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 4,Software Engineer,195000,"Emeryville, CA",5,3,DevOps,158000,25000,12000,Male,NA,15315,807,13682,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Sr,Product Designer,177000,"San Francisco, CA",5,4,Design,150000,20000,7000,Female,NA,7419,807,16505,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 4,Software Engineer,204000,"Denver, CO",5,2,DevOps,155000,38000,11000,Male,NA,7548,751,18354,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 3,Software Engineer,113000,"Austin, TX",5,2,Testing (SDET),103000,3000,7000,Male,NA,10965,635,18448,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Adobe,Software Engineer 4,Software Engineer,200000,"Emeryville, CA",5,5,API Development (Back-End),150000,40000,10000,NA,NA,15315,807,19902,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Adobe,Software Engineer 4,Software Engineer,270000,"San Jose, CA",5,1,ML / AI,155000,99000,16000,Male,NA,7422,807,21259,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Adobe,Software Engineer 3,Software Engineer,200000,"San Jose, CA",5,5,Full Stack,140000,50000,10000,Male,Masters,7422,807,21504,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2018,Adobe,Software Engineer 4,Software Engineer,170000,"San Jose, CA",6,5,Full Stack,135000,25000,7000,Male,ESPP - 2years lock in price,7422,807,4376,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 3,Software Engineer,211000,"San Jose, CA",6,0,Distributed Systems (Back-End),165000,35000,11000,Male,NA,7422,807,13797,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 4,Software Engineer,170000,"Lehi, UT",6,1,Database,132000,30000,8000,Male,Title: Database Engineer,15555,770,13813,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 4,Software Engineer,85000,"Bucharest, BU, Romania",6,6,API Development (Back-End),40000,43000,2000,Male,NA,4701,0,14792,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Adobe,Software Engineer 5,Software Engineer,262000,"San Jose, CA",6,1,Web Development (Front-End),192000,50000,20000,Male,Masters,7422,807,19907,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Adobe,Software Engineer 3,Software Engineer,170000,"New York, NY",6,3,Web Development (Front-End),127000,35000,8000,Female,NA,10182,501,25177,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 4,Software Engineer,227000,"San Francisco, CA",7,1,DevOps,170000,45000,12000,Male,NA,7419,807,13894,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 4,Software Engineer,250000,"San Jose, CA",7,2.5,DevOps,170000,70000,10000,Male,NA,7422,807,16245,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 5.5,Software Engineer,455000,"Seattle, WA",7,7,ML / AI,193000,241000,21000,Male,PhD,11527,819,18560,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2020,Adobe,Software Engineer 4,Software Engineer,285000,"San Jose, CA",7,2,Distributed Systems (Back-End),190000,90000,5000,NA,NA,7422,807,23194,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Adobe,Software Engineer 4,Software Engineer,175000,"San Jose, CA",8,6,Full Stack,140000,30000,7000,NA,NA,7422,807,4793,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Adobe,Senior,Product Manager,200000,"Austin, TX",8,2,Full Stack,140000,40000,20000,Male,NA,10965,635,4796,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 3,Software Engineer,156000,"Lehi, UT",8,4,API Development (Back-End),120000,30000,6000,Male,NA,15555,770,5603,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 4,Software Engineer,163000,"Lehi, UT",8,6,Full Stack,115000,42000,6000,Male,NA,15555,770,12609,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,PM3,Product Manager,216000,"San Jose, CA",8,4,ML / AI,144000,50000,22000,NA,Masters,7422,807,19212,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Adobe,SDEP40,Software Engineer,190000,"Emeryville, CA",8,5,Distributed Systems (Back-End),165000,15000,10000,Male,Masters,15315,807,22004,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Adobe,PM3,Product Manager,259000,"San Francisco, CA",8,2,ML / AI,154000,80000,25000,NA,Masters,7419,807,22898,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Adobe,Software Engineer 4,Software Engineer,310000,"San Francisco, CA",9,1,DevOps,220000,70000,20000,Male,NA,7419,807,10796,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 5,Software Engineer,300000,"Seattle, WA",9,0,API Development (Back-End),210000,60000,30000,Male,NA,11527,819,16708,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Adobe,Software Engineer 5,Software Engineer,289000,"Basel, BS, Switzerland",9,8,Full Stack,181000,90000,18000,Male,Masters,13139,0,22685,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Adobe,SDEP40,Software Engineer,200000,"San Jose, CA",9,4,iOS,172000,12000,16000,Male,Masters,7422,807,24844,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2018,Adobe,Software Engineer 4,Software Engineer,350000,"San Jose, CA",10,0,ML / AI,200000,130000,20000,NA,NA,7422,807,2183,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Adobe,Software Engineer 4,Software Engineer,350000,"San Jose, CA",10,0,ML / AI,200000,130000,20000,NA,NA,7422,807,2184,0,0,0,0,0,0,0,0,0,0,NA,NA
+2018,Adobe,5,Software Engineer,242000,"San Jose, CA",10,1,Full Stack,175000,63000,4000,NA,NA,7422,807,2358,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 4,Software Engineer,151000,"Lehi, UT",10,5,Networking,120000,25000,6000,Male,NA,15555,770,5144,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 5,Software Engineer,270000,"Emeryville, CA",10,0,Distributed Systems (Back-End),200000,50000,20000,Male,NA,15315,807,5315,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 4,Software Engineer,179000,"Lehi, UT",10,6,Networking,126000,44000,9000,NA,Title: Networking Engineer,15555,770,11887,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 4,Software Engineer,235000,"San Francisco, CA",10,1,Web Development (Front-End),170000,60000,5000,Male,NA,7419,807,14092,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 4,Software Engineer,352000,"San Jose, CA",10,1,ML / AI,220000,110000,22000,NA,NA,7422,807,14316,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 5,Software Engineer,270000,"San Jose, CA",10,9,Full Stack,190000,60000,20000,Female,NA,7422,807,15056,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Adobe,Software Engineer 4,Software Engineer,280000,"San Jose, CA",10,5,API Development (Back-End),165000,100000,15000,Female,NA,7422,807,21769,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Adobe,Software Engineer 4,Software Engineer,140000,"Bucharest, BU, Romania",10,3,DevOps,36000,100000,3000,Male,NA,4701,0,23057,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Adobe,Software Engineer 4,Product Manager,170000,"San Francisco, CA",10,0,Strategy,144000,15000,11000,NA,Masters,7419,807,24372,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Adobe,Software Engineer 4,Software Engineer,170000,"San Jose, CA",11,1,API Development (Back-End),150000,10000,10000,Male,NA,7422,807,5799,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Senior Computer Scientist,Software Engineer,250000,"San Jose, CA",11,6,API Development (Back-End),180000,60000,10000,Male,NA,7422,807,5838,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 4,Software Engineer,281000,"Los Angeles, CA",11,0,Web Development (Front-End),145000,129000,7000,Male,NA,7275,803,7555,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,L4,Product Manager,300000,"San Jose, CA",11,1,API Development (Back-End),210000,48000,42000,NA,NA,7422,807,12890,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 5,Software Engineer,339000,"San Jose, CA",12,2.5,Distributed Systems (Back-End),195000,130000,14000,Male,NA,7422,807,6034,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,5.5,Product Designer,83000,"Noida, UP, India",12,3,Design,54000,14000,15000,Other,NA,42631,0,15229,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 3,Software Engineer,126000,"Austin, TX",12,2,Full Stack,115000,0,8000,Male,NA,10965,635,18736,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 3,Software Engineer,250000,"New York, NY",12,3,Full Stack,171000,68000,11000,Male,Masters,10182,501,19189,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Adobe,Software Engineer 4,Software Engineer,277000,"New York, NY",12,3,Distributed Systems (Back-End),170000,90000,18000,Female,Masters,10182,501,21245,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Adobe,Software Engineer 5,Software Engineer,270000,"San Jose, CA",12,1,Distributed Systems (Back-End),190000,60000,20000,NA,NA,7422,807,21823,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Adobe,Software Engineer 4,Software Engineer,193000,"Austin, TX",12,2,Full Stack,125000,60000,8000,Male,NA,10965,635,22008,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 5,Software Engineer,325000,"San Francisco, CA",13,7,Distributed Systems (Back-End),215000,100000,10000,Male,NA,7419,807,4994,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 5,Software Engineer,270000,"San Jose, CA",13,2.5,DevOps,176000,84000,10000,Female,NA,7422,807,5375,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,SDEM4,Software Engineering Manager,380000,"San Francisco, CA",13,5,Full Stack,240000,100000,40000,Male,NA,7419,807,6709,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,4,Product Designer,222000,"San Jose, CA",13,1,Design,175000,35000,12000,Male,Masters,7422,807,16978,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Adobe,L40,Software Engineering Manager,360000,"San Jose, CA",13,2,Web Development (Front-End),196000,124000,40000,Female,Masters,7422,807,21393,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Adobe,Senior Software Engineer (5),Data Scientist,350000,"San Jose, CA",13,1,ML / AI,213000,110000,27000,Male,PhD,7422,807,22011,0,0,1,0,0,0,0,0,0,0,NA,PhD
+2020,Adobe,Software Engineer 4,Software Engineer,204000,"San Jose, CA",13,10,Security,170000,17000,17000,Male,Masters,7422,807,22069,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Adobe,E3,Product Manager,67000,"Bangalore, KA, India",14,12,Product Manager,39000,23000,5000,Male,NA,4058,0,18577,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Adobe,5,Solution Architect,250000,"Austin, TX",14,1,Distributed Systems (Back-End),185000,50000,15000,Male,Software Architecture and Design - Masters,10965,635,21116,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2017,Adobe,Director,Product Manager,470000,"San Francisco, CA",15,6,NA,230000,170000,65000,NA,Refresh equity on 3 yr vest; Up to 3% 401K match; Good ESPP program,7419,807,105,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,L3,Software Engineering Manager,255000,"San Jose, CA",15,9,Distributed Systems (Back-End),180000,48000,27000,Male,NA,7422,807,5582,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 4,Software Engineer,240000,"Allentown, PA",15,6,Distributed Systems (Back-End),151000,80000,9000,Male,NA,10543,504,5685,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,M3,Software Engineering Manager,242000,"San Jose, CA",15,8,Distributed Systems (Back-End),190000,24000,28000,NA,NA,7422,807,7225,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Technical Support Engineer 4,Software Engineer,117000,"Austin, TX",15,1,Technical Support,102000,10000,5000,Male,NA,10965,635,7522,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 5,Software Engineer,300000,"Emeryville, CA",15,2,Web Development (Front-End),205000,90000,10000,Male,NA,15315,807,10350,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 4,Software Engineer,330000,"San Francisco, CA",15,2,Full Stack,170000,150000,10000,Male,NA,7419,807,12214,0,0,0,0,0,0,0,0,0,0,NA,NA
+2020,Adobe,Software Engineer 5,Software Engineer,217000,"Hamburg, HH, Germany",16,4,Distributed Systems (Back-End),110000,100000,7000,Male,Masters,3688,0,22880,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2020,Adobe,Software Engineer 4,Software Engineer,77000,"Bucharest, BU, Romania",17,5,Full Stack,60000,11000,6000,Male,Masters,4701,0,22323,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+2019,Adobe,Software Engineer 5,Software Engineer,254000,"Seattle, WA",18,0,Full Stack,175000,67000,12000,Male,NA,11527,819,16834,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,4,Software Engineering Manager,350000,"San Jose, CA",20,3,DevOps,200000,100000,50000,Female,NA,7422,807,10262,0,0,0,0,0,0,0,0,0,0,NA,NA
+2019,Adobe,Software Engineer 5,Software Engineer,130000,"Bucharest, BU, Romania",20,10,Distributed Systems (Back-End),70000,60000,0,Male,NA,4701,0,14795,0,0,0,0,0,0,0,0,0,0,NA,NA
